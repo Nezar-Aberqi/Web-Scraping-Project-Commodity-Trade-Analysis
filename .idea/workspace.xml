@@ -6,11 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7c3dbca6-ebb2-4394-b239-cd42e6902136" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Commodities_analyses.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extract_news.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gas Commodity/China_EXPORTS_gas.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gas Commodity/China_IMPORTS_gas.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gas Commodity/France_EXPORTS_gas.csv" afterDir="false" />
@@ -25,15 +27,25 @@
       <change afterPath="$PROJECT_DIR$/Gas Commodity/Uk_Imports_gas.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gas Commodity/Ukraine_EXPORTS_gas.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gas Commodity/Ukraine_IMPORTS_gas.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Geopolitical_News.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gold Commodity/China_EXPORTS_gold.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gold Commodity/China_IMPORTS_gold.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gold Commodity/France_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/France_IMPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/India_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/India_IMPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/RussianFederation_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/RussianFederation_IMPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/UK_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/UK_IMPORTS_gold.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Gold Commodity/USA_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/USA_IMPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/Ukraine_EXPORTS_gold.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gold Commodity/Ukraine_IMPORTS_gold.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/CHINA_EXPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/CHINA_IMPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/France_EXPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/India_EXPORTS_Petrol.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Petrol Commodity/India_IMPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/Russia_EXPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/Russia_IMPORTS_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/SA_EXPORTS_Petrol.csv" afterDir="false" />
@@ -45,13 +57,21 @@
       <change afterPath="$PROJECT_DIR$/Petrol Commodity/Ukraine_Imports_Petrol.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Scrappy.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TradesApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/China_EXPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/China_IMPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/France_EXPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/France_IMPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/RussianFederation_EXPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/RussianFederation_IMPORTS_wheat.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wheat Commodity/USA_EXPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/USA_IMPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/Uk_EXPORTS_wheat.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wheat Commodity/Uk_IMPORTS_wheat.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wheat Commodity/Ukraine_EXPORTS_wheat.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wheat Commodity/Ukraine_IMPORTS_wheat.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commodities_data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/geopolitical.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hawktug.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-3.0.1.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-3.0.1.dist-info/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/MarkupSafe-3.0.1.dist-info/METADATA" afterDir="false" />
@@ -348,6 +368,69 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/cffi/vengine_cpy.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/cffi/vengine_gen.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/cffi/verifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer-3.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/cli/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/legacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/md.cp311-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/md__mypyc.cp311-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/charset_normalizer/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click-8.1.7.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_termui_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/_winconsole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/shell_completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/termui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/click/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.6.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.6.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.6.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.6.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/ansi_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/ansitowin32_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/initialise_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/isatty_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/tests/winterm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/colorama/winterm.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/contourpy-1.3.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/contourpy-1.3.0.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/contourpy-1.3.0.dist-info/METADATA" afterDir="false" />
@@ -1072,6 +1155,18 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/fonttools-4.54.1.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/fonttools-4.54.1.dist-info/entry_points.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/fonttools-4.54.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext-0.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/data/cities15000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/data/citypatches.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/data/countryInfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/data/nationalities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/geotext/geotext.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/h11-0.14.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/h11-0.14.0.dist-info/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/h11-0.14.0.dist-info/METADATA" afterDir="false" />
@@ -1181,6 +1276,150 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jinja2/visitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib-1.4.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_cloudpickle_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_dask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_memmapping_reducer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_multiprocessing_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_parallel_backends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_store_backends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/backports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/compressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/disk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/cloudpickle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/cloudpickle/cloudpickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/cloudpickle/cloudpickle_fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/_posix_reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/_win_reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/fork_exec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/popen_loky_posix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/popen_loky_win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/resource_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/spawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/synchronize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/backend/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/cloudpickle_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/initializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/process_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/externals/loky/reusable_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/func_inspect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/numpy_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/numpy_pickle_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/numpy_pickle_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/create_numpy_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py27_np16.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py27_np17.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py33_np18.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py34_np19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py35_np19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.lzma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.lzma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.lzma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.lzma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_compressed_pickle_py36_np111.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.lzma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.8.4_compressed_pickle_py27_np17.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py27_np16.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py27_np17.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py34_np19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py35_np19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_02.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_03.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_02.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_03.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_02.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_03.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_02.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_03.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_02.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_03.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_01.npy.z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_02.npy.z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_03.npy.z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_backports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_cloudpickle_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_dask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_disk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_func_inspect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_func_inspect_special_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_memmapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_memory_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_missing_multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_numpy_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_numpy_pickle_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_numpy_pickle_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_store_backends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/test/testutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/joblib/testing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jupyterlab_plotly/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jupyterlab_plotly/labextension/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/jupyterlab_plotly/labextension/static/133.d03e1dd786ee2967a117.js" afterDir="false" />
@@ -1810,6 +2049,433 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nest_asyncio-1.6.0.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nest_asyncio-1.6.0.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nest_asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/AUTHORS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk-3.9.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/chartparser_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/chunkparser_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/collocations_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/concordance_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/nemo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/rdparser_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/srparser_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/wordfreq_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/app/wordnet_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/combinator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/lexicon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/ccg/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/eliza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/iesha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/rude.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/suntsu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chat/zen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chunk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chunk/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chunk/named_entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chunk/regexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/chunk/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/decisiontree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/maxent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/megam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/naivebayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/positivenaivebayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/rte_classify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/scikitlearn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/senna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/svm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/tadm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/textcat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/classify/weka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/em.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/gaac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/cluster/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/collocations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/europarl_raw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/aligned.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/bcp47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/bnc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/bracket_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/categorized_sents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/chasen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/childes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/chunked.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/cmudict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/comparative_sents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/conll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/crubadan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/dependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/framenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/ieer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/indian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/ipipan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/knbc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/lin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/markdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/mte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/nkjp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/nombank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/nps_chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/opinion_lexicon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/panlex_lite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/panlex_swadesh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/pl196x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/plaintext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/ppattach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/propbank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/pros_cons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/reviews.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/rte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/semcor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/senseval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/sentiwordnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/sinica_treebank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/string_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/switchboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/tagged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/timit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/toolbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/udhr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/verbnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/wordlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/wordnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/xmldocs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/reader/ycoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/corpus/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/cfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/dispersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/draw/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/featstruct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/grammar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/discourse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/mace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/nonmonotonic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/prover9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/resolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/inference/tableau.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/internals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/jsontags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/langnames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lazyimport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/smoothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/lm/vocabulary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/agreement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/aline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/association.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/confusionmatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/paice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/metrics/spearman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/babelfish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/chomsky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/minimalset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/misc/wordfinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/bllip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/corenlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/dependencygraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/earleychart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/featurechart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/malt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/nonprojectivedependencyparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/pchart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/projectivedependencyparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/recursivedescent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/shiftreduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/stanford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/transitionparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/parse/viterbi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/boxer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/chat80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/cooper_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/drt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/drt_glue_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/glue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/hole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/lfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/linearlogic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/relextract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/skolemize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sem/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sentiment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sentiment/sentiment_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sentiment/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/sentiment/vader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/arlstem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/arlstem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/cistem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/isri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/lancaster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/porter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/regexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/rslp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/snowball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/stem/wordnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tabdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/brill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/brill_trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/crf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/hmm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/hunpos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/senna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/stanford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/tnt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tag/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/erroranalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/feature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tbl/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/bleu.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/bnc.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/ccg.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/ccg_semantics.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/chat80.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/childes.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/childes_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/chunk.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/classify.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/classify_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/collections.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/collocations.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/concordance.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/corpus.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/crubadan.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/data.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/dependency.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/discourse.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/drt.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/featgram.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/featstruct.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/framenet.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/generate.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/gensim.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/gensim_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/gluesemantics.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/gluesemantics_malt.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/gluesemantics_malt_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/grammar.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/grammartestsuites.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/index.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/inference.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/internals.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/japanese.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/lm.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/logic.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/meteor.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/metrics.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/misc.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/nonmonotonic.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/paice.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/parse.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/portuguese_en.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/portuguese_en_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/probability.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/probability_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/propbank.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/relextract.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/resolution.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/semantics.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/sentiment.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/sentiwordnet.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/setup_fixt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/simple.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/stem.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/tag.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/tokenize.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/toolbox.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/translate.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/tree.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/treeprettyprinter.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/treetransforms.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/lm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/lm/test_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/lm/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/lm/test_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/lm/test_vocabulary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_aline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_bllip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_brill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_cfd_mutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_cfg2chomsky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_chunk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_classify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_collocations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_concordance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_corenlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_corpora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_corpus_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_disagreement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_freqdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_hmm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_json2csv_corpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_json_serialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_naivebayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_nombank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_pl196x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_pos_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_ribes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_rte_classify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_seekable_unicode_stream_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_senna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_stem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_tgrep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_tokenize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_twitter_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/test_wordnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_bleu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_gdfa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_ibm_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_meteor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_nist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/unit/translate/test_stack_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/util.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/wordnet.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/wordnet_lch.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/test/wsd.doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tgrep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/casual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/destructive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/legality_principle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/mwe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/nist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/punkt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/regexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/repp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/sexpr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/sonority_sequencing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/stanford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/stanford_segmenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/texttiling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/toktok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/treebank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tokenize/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/toolbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/bleu_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/chrf_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/gale_church.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/gdfa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/gleu_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ibm_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/meteor_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/nist_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/phrase_based.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/ribes_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/translate/stack_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/parented.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/prettyprinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/probabilistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/tree/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/treeprettyprinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/treetransforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/twitter_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/twitterclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/twitter/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/nltk/wsd.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/numpy-2.1.1-cp311-cp311-win_amd64.whl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/numpy-2.1.1.dist-info/DELVEWHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/numpy-2.1.1.dist-info/INSTALLER" afterDir="false" />
@@ -20818,6 +21484,42 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/pytz/zoneinfo/zone.tab" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/pytz/zoneinfo/zone1970.tab" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/pytz/zoneinfo/zonenow.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex-2024.9.11.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex/_regex.cp311-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex/_regex_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/regex/test_regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests-2.32.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/requests/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/retrying-1.3.4.dist-info/AUTHORS.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/retrying-1.3.4.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/retrying-1.3.4.dist-info/LICENSE" afterDir="false" />
@@ -24385,6 +25087,47 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tenacity/stop.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tenacity/tornadoweb.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tenacity/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm-4.66.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_dist_ver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_tqdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_tqdm_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_tqdm_notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_tqdm_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/autonotebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/completion.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/bells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/concurrent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/discord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/slack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/telegram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/contrib/utils_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/dask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/keras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/rich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/std.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/tqdm.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/tqdm/version.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/trio-0.26.2.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/trio-0.26.2.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/trio-0.26.2.dist-info/LICENSE.APACHE2" afterDir="false" />
@@ -25365,6 +26108,8 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/f2py.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/flask.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/fonttools.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/nltk.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/normalizer.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/numpy-config.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pip.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pip3.11.exe" afterDir="false" />
@@ -25376,6 +26121,7 @@
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pythonw.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/pythonw_d.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/renderer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/tqdm.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/ttx.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/Scripts/wsdump.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/myvenv/etc/jupyter/nbconfig/notebook.d/dash.json" afterDir="false" />
@@ -25401,8 +26147,6 @@
       <change afterPath="$PROJECT_DIR$/myvenv/share/man/man1/ttx.1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/plotting_functions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/processing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.PY" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trading_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
