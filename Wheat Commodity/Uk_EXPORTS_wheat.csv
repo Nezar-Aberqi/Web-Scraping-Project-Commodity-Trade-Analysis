@@ -1,0 +1,451 @@
+,Period,Trade Flow,Reporter,Partner,Commodity Code,Trade Value (US$),Net Weight(kg),Qty Unit
+0,2012,X,United Kingdom,World,1001,"$428,623,487","1,503,350,637","1,503,350,637"
+1,2012,X,United Kingdom,Algeria,1001,"$16,312,154","57,906,650","57,906,650"
+2,2012,X,United Kingdom,Australia,1001,"$1,655",63,63
+3,2012,X,United Kingdom,Austria,1001,"$1,818","6,167","6,167"
+4,2012,X,United Kingdom,Belgium,1001,"$18,189,011","64,785,686","64,785,686"
+5,2012,X,United Kingdom,Cyprus,1001,"$2,725","1,556","1,556"
+6,2012,X,United Kingdom,Denmark,1001,"$5,759","4,624","4,624"
+7,2012,X,United Kingdom,Finland,1001,$6,50,50
+8,2012,X,United Kingdom,France,1001,"$2,378,865","8,570,383","8,570,383"
+9,2012,X,United Kingdom,Germany,1001,"$10,442,774","34,751,854","34,751,854"
+10,2012,X,United Kingdom,Greece,1001,$214,726,726
+11,2012,X,United Kingdom,Iceland,1001,"$1,462,600","4,877,550","4,877,550"
+12,2012,X,United Kingdom,Ireland,1001,"$38,545,356","129,904,210","129,904,210"
+13,2012,X,United Kingdom,Italy,1001,"$3,660,854","12,286,251","12,286,251"
+14,2012,X,United Kingdom,Japan,1001,"$30,630","13,550","13,550"
+15,2012,X,United Kingdom,Malta,1001,"$6,203","17,200","17,200"
+16,2012,X,United Kingdom,Mexico,1001,"$130,025","1,800","1,800"
+17,2012,X,United Kingdom,Morocco,1001,"$3,557,523","13,303,290","13,303,290"
+18,2012,X,United Kingdom,Netherlands,1001,"$105,929,609","395,224,743","395,224,743"
+19,2012,X,United Kingdom,Norway,1001,"$436,200","1,007,900","1,007,900"
+20,2012,X,United Kingdom,Poland,1001,"$496,108","1,700,000","1,700,000"
+21,2012,X,United Kingdom,Portugal,1001,"$40,378,475","140,158,864","140,158,864"
+22,2012,X,United Kingdom,Saudi Arabia,1001,"$29,893","11,629","11,629"
+23,2012,X,United Kingdom,Singapore,1001,"$11,600","1,386","1,386"
+24,2012,X,United Kingdom,Slovakia,1001,$24,81,81
+25,2012,X,United Kingdom,Slovenia,1001,"$1,783","6,049","6,049"
+26,2012,X,United Kingdom,South Africa,1001,"$356,404","126,275","126,275"
+27,2012,X,United Kingdom,Spain,1001,"$140,566,742","475,187,822","475,187,822"
+28,2012,X,United Kingdom,Sweden,1001,"$5,598,521","19,794,141","19,794,141"
+29,2012,X,United Kingdom,Switzerland,1001,"$2,837",20,20
+30,2012,X,United Kingdom,USA,1001,"$40,087,117","143,700,118","143,700,118"
+31,2013,X,United Kingdom,World,1001,"$134,603,200","447,800,497","447,800,497"
+32,2013,X,United Kingdom,Australia,1001,"$2,502",10,10
+33,2013,X,United Kingdom,Belgium,1001,"$5,405,334","14,967,274","14,967,274"
+34,2013,X,United Kingdom,Cyprus,1001,"$6,408","8,380","8,380"
+35,2013,X,United Kingdom,Finland,1001,$74,35,35
+36,2013,X,United Kingdom,France,1001,"$3,097","5,190","5,190"
+37,2013,X,United Kingdom,Germany,1001,"$5,126,500","15,670,212","15,670,212"
+38,2013,X,United Kingdom,Guam,1001,"$15,615",972,972
+39,2013,X,United Kingdom,Iceland,1001,"$2,785,171","9,847,765","9,847,765"
+40,2013,X,United Kingdom,Ireland,1001,"$9,126,160","27,928,626","27,928,626"
+41,2013,X,United Kingdom,Italy,1001,"$1,820,295","6,337,252","6,337,252"
+42,2013,X,United Kingdom,Japan,1001,"$21,027","18,250","18,250"
+43,2013,X,United Kingdom,Kazakhstan,1001,"$2,074",343,343
+44,2013,X,United Kingdom,Kenya,1001,"$12,456","13,155","13,155"
+45,2013,X,United Kingdom,Malta,1001,"$3,467","8,477","8,477"
+46,2013,X,United Kingdom,Morocco,1001,"$4,293,354","14,838,020","14,838,020"
+47,2013,X,United Kingdom,Netherlands,1001,"$70,062,883","235,206,317","235,206,317"
+48,2013,X,United Kingdom,New Zealand,1001,"$2,143",345,345
+49,2013,X,United Kingdom,Norway,1001,"$3,195,159","9,805,000","9,805,000"
+50,2013,X,United Kingdom,Portugal,1001,"$9,325,998","32,556,498","32,556,498"
+51,2013,X,United Kingdom,Romania,1001,$9,1,1
+52,2013,X,United Kingdom,Viet Nam,1001,"$1,971",22,22
+53,2013,X,United Kingdom,South Africa,1001,"$6,519","1,590","1,590"
+54,2013,X,United Kingdom,Spain,1001,"$21,888,677","76,467,192","76,467,192"
+55,2013,X,United Kingdom,Sudan,1001,"$4,956",262,262
+56,2013,X,United Kingdom,Sweden,1001,"$1,259,661","4,076,580","4,076,580"
+57,2013,X,United Kingdom,Thailand,1001,"$3,181","1,000","1,000"
+58,2013,X,United Kingdom,United Arab Emirates,1001,"$70,166","14,061","14,061"
+59,2013,X,United Kingdom,USA,1001,"$4,539","2,219","2,219"
+60,2013,X,United Kingdom,Yemen,1001,"$153,803","25,449","25,449"
+61,2014,X,United Kingdom,World,1001,"$271,146,906","1,143,476,605","1,143,476,605"
+62,2014,X,United Kingdom,Algeria,1001,"$56,337,852","232,257,740","232,257,740"
+63,2014,X,United Kingdom,Belgium,1001,"$8,005,029","30,300,529","30,300,529"
+64,2014,X,United Kingdom,Cyprus,1001,"$4,548","1,667","1,667"
+65,2014,X,United Kingdom,France,1001,"$9,889,470","44,234,877","44,234,877"
+66,2014,X,United Kingdom,French Polynesia,1001,"$23,458",159,159
+67,2014,X,United Kingdom,Germany,1001,"$65,590","129,625","129,625"
+68,2014,X,United Kingdom,Greece,1001,$20,3,3
+69,2014,X,United Kingdom,Hungary,1001,$28,3,3
+70,2014,X,United Kingdom,Iceland,1001,"$1,732,358","7,179,880","7,179,880"
+71,2014,X,United Kingdom,Ireland,1001,"$20,398,709","78,428,419","78,428,419"
+72,2014,X,United Kingdom,Italy,1001,"$5,387,678","18,916,800","18,916,800"
+73,2014,X,United Kingdom,Japan,1001,"$9,543","8,000","8,000"
+74,2014,X,United Kingdom,Rep. of Korea,1001,"$30,983","2,520","2,520"
+75,2014,X,United Kingdom,Malta,1001,"$13,905","20,510","20,510"
+76,2014,X,United Kingdom,Morocco,1001,"$5,413,542","22,093,075","22,093,075"
+77,2014,X,United Kingdom,Netherlands,1001,"$26,724,478","128,036,157","128,036,157"
+78,2014,X,United Kingdom,Norway,1001,"$51,929","4,308","4,308"
+79,2014,X,United Kingdom,Portugal,1001,"$27,750,790","114,794,403","114,794,403"
+80,2014,X,United Kingdom,Romania,1001,"$201,206","977,580","977,580"
+81,2014,X,United Kingdom,India,1001,"$26,722","8,745","8,745"
+82,2014,X,United Kingdom,Slovenia,1001,$130,26,26
+83,2014,X,United Kingdom,South Africa,1001,"$29,724","5,240","5,240"
+84,2014,X,United Kingdom,Spain,1001,"$90,951,377","388,545,232","388,545,232"
+85,2014,X,United Kingdom,Sudan,1001,"$10,717",559,559
+86,2014,X,United Kingdom,Switzerland,1001,"$4,454","7,136","7,136"
+87,2014,X,United Kingdom,Thailand,1001,"$6,867,677","26,286,580","26,286,580"
+88,2014,X,United Kingdom,Tunisia,1001,"$6,257,220","25,210,005","25,210,005"
+89,2014,X,United Kingdom,USA,1001,"$4,957,769","26,026,827","26,026,827"
+90,2015,X,United Kingdom,World,1001,"$405,424,393","2,001,933,932","2,001,933,932"
+91,2015,X,United Kingdom,Algeria,1001,"$24,384,828","100,500,000","100,500,000"
+92,2015,X,United Kingdom,Australia,1001,"$6,410",10,10
+93,2015,X,United Kingdom,Austria,1001,"$1,703",259,259
+94,2015,X,United Kingdom,Armenia,1001,"$2,200","3,600","3,600"
+95,2015,X,United Kingdom,Barbados,1001,"$2,275",700,700
+96,2015,X,United Kingdom,Belgium,1001,"$9,801,714","44,985,060","44,985,060"
+97,2015,X,United Kingdom,Bulgaria,1001,"$2,863","5,000","5,000"
+98,2015,X,United Kingdom,Canada,1001,"$1,966","5,010","5,010"
+99,2015,X,United Kingdom,Cyprus,1001,"$5,017","7,232","7,232"
+100,2015,X,United Kingdom,Czechia,1001,"$3,273",778,778
+101,2015,X,United Kingdom,Denmark,1001,"$674,631","3,912,021","3,912,021"
+102,2015,X,United Kingdom,Finland,1001,$34,9,9
+103,2015,X,United Kingdom,France,1001,"$2,962,939","14,127,810","14,127,810"
+104,2015,X,United Kingdom,Germany,1001,"$825,085","4,426,101","4,426,101"
+105,2015,X,United Kingdom,Greece,1001,"$785,227","4,251,117","4,251,117"
+106,2015,X,United Kingdom,"China, Hong Kong SAR",1001,"$38,537","10,050","10,050"
+107,2015,X,United Kingdom,Hungary,1001,$165,25,25
+108,2015,X,United Kingdom,Iceland,1001,"$1,484,538","7,890,278","7,890,278"
+109,2015,X,United Kingdom,Iraq,1001,"$32,470","4,000","4,000"
+110,2015,X,United Kingdom,Ireland,1001,"$33,443,640","152,166,035","152,166,035"
+111,2015,X,United Kingdom,Italy,1001,"$3,152,316","15,106,082","15,106,082"
+112,2015,X,United Kingdom,Japan,1001,"$8,735,665","42,483,932","42,483,932"
+113,2015,X,United Kingdom,Rep. of Korea,1001,"$9,169,350","47,249,190","47,249,190"
+114,2015,X,United Kingdom,Latvia,1001,$12,2,2
+115,2015,X,United Kingdom,Malta,1001,"$17,252","43,545","43,545"
+116,2015,X,United Kingdom,"Other Asia, nes",1001,"$307,215",400,400
+117,2015,X,United Kingdom,Netherlands,1001,"$59,993,178","331,809,144","331,809,144"
+118,2015,X,United Kingdom,New Zealand,1001,"$3,027","1,500","1,500"
+119,2015,X,United Kingdom,Norway,1001,"$1,062,939","5,784,341","5,784,341"
+120,2015,X,United Kingdom,Philippines,1001,"$10,870,246","52,674,785","52,674,785"
+121,2015,X,United Kingdom,Poland,1001,"$10,101","20,202","20,202"
+122,2015,X,United Kingdom,Portugal,1001,"$59,504,317","295,602,350","295,602,350"
+123,2015,X,United Kingdom,Qatar,1001,"$3,606",295,295
+124,2015,X,United Kingdom,Romania,1001,$43,15,15
+125,2015,X,United Kingdom,Saudi Arabia,1001,"$318,419","54,204","54,204"
+126,2015,X,United Kingdom,India,1001,"$4,311","2,100","2,100"
+127,2015,X,United Kingdom,Singapore,1001,"$90,457","28,177","28,177"
+128,2015,X,United Kingdom,Slovenia,1001,$165,35,35
+129,2015,X,United Kingdom,South Africa,1001,"$9,199","1,992","1,992"
+130,2015,X,United Kingdom,Spain,1001,"$125,214,747","652,338,947","652,338,947"
+131,2015,X,United Kingdom,Sweden,1001,$58,4,4
+132,2015,X,United Kingdom,Switzerland,1001,"$33,706","45,000","45,000"
+133,2015,X,United Kingdom,Thailand,1001,"$40,939,278","173,350,000","173,350,000"
+134,2015,X,United Kingdom,United Arab Emirates,1001,"$15,104",360,360
+135,2015,X,United Kingdom,Tunisia,1001,"$11,477,362","53,041,390","53,041,390"
+136,2015,X,United Kingdom,USA,1001,"$32,807",845,845
+137,2016,X,United Kingdom,World,1001,"$516,946,283","2,935,242,148","2,935,242,148"
+138,2016,X,United Kingdom,Algeria,1001,"$60,949,786","332,906,000","332,906,000"
+139,2016,X,United Kingdom,Austria,1001,"$1,066",633,633
+140,2016,X,United Kingdom,Belgium,1001,"$13,446,807","68,205,299","68,205,299"
+141,2016,X,United Kingdom,Canada,1001,"$1,351",4,4
+142,2016,X,United Kingdom,China,1001,"$203,196","34,497","34,497"
+143,2016,X,United Kingdom,Cyprus,1001,$300,207,207
+144,2016,X,United Kingdom,Czechia,1001,"$3,841",864,864
+145,2016,X,United Kingdom,Denmark,1001,$28,4,4
+146,2016,X,United Kingdom,Estonia,1001,$30,25,25
+147,2016,X,United Kingdom,Finland,1001,$15,5,5
+148,2016,X,United Kingdom,France,1001,"$24,449,437","144,345,254","144,345,254"
+149,2016,X,United Kingdom,Germany,1001,"$2,090,084","12,323,103","12,323,103"
+150,2016,X,United Kingdom,Greece,1001,"$738,302","4,001,321","4,001,321"
+151,2016,X,United Kingdom,"China, Hong Kong SAR",1001,"$7,891",556,556
+152,2016,X,United Kingdom,Iceland,1001,"$1,126,110","7,148,260","7,148,260"
+153,2016,X,United Kingdom,Indonesia,1001,"$8,345,949","52,103,530","52,103,530"
+154,2016,X,United Kingdom,Ireland,1001,"$39,117,848","211,231,042","211,231,042"
+155,2016,X,United Kingdom,Israel,1001,"$21,823","10,584","10,584"
+156,2016,X,United Kingdom,Italy,1001,"$7,453,609","40,369,616","40,369,616"
+157,2016,X,United Kingdom,Japan,1001,"$16,052,998","91,911,744","91,911,744"
+158,2016,X,United Kingdom,Libya,1001,"$16,893","1,919","1,919"
+159,2016,X,United Kingdom,Lithuania,1001,$16,"2,700","2,700"
+160,2016,X,United Kingdom,Malta,1001,"$20,258","85,932","85,932"
+161,2016,X,United Kingdom,Morocco,1001,"$3,925,194","22,799,240","22,799,240"
+162,2016,X,United Kingdom,Netherlands,1001,"$64,531,493","378,767,104","378,767,104"
+163,2016,X,United Kingdom,Norway,1001,"$20,284","1,769","1,769"
+164,2016,X,United Kingdom,Poland,1001,$449,73,73
+165,2016,X,United Kingdom,Portugal,1001,"$54,820,231","309,566,345","309,566,345"
+166,2016,X,United Kingdom,Romania,1001,$192,45,45
+167,2016,X,United Kingdom,Saudi Arabia,1001,"$86,524","21,681","21,681"
+168,2016,X,United Kingdom,Seychelles,1001,"$12,012",80,80
+169,2016,X,United Kingdom,Singapore,1001,"$150,885",164,164
+170,2016,X,United Kingdom,Viet Nam,1001,"$10,882,443","69,973,060","69,973,060"
+171,2016,X,United Kingdom,Slovenia,1001,$66,33,33
+172,2016,X,United Kingdom,South Africa,1001,"$21,055","7,223","7,223"
+173,2016,X,United Kingdom,Spain,1001,"$177,649,664","993,939,928","993,939,928"
+174,2016,X,United Kingdom,Sudan,1001,"$2,996",141,141
+175,2016,X,United Kingdom,Sweden,1001,$62,4,4
+176,2016,X,United Kingdom,Switzerland,1001,"$1,872",40,40
+177,2016,X,United Kingdom,United Arab Emirates,1001,"$197,476","4,785","4,785"
+178,2016,X,United Kingdom,Tunisia,1001,"$20,872,966","132,477,495","132,477,495"
+179,2016,X,United Kingdom,USA,1001,"$9,722,782","62,999,839","62,999,839"
+180,2017,X,United Kingdom,World,1001,"$132,566,935",0,"645,837,396"
+181,2017,X,United Kingdom,Argentina,1001,"$6,917",0,"33,965"
+182,2017,X,United Kingdom,Australia,1001,"$131,054","8,495","8,495"
+183,2017,X,United Kingdom,Austria,1001,$409,40,40
+184,2017,X,United Kingdom,Bahamas,1001,"$10,943","1,450","1,450"
+185,2017,X,United Kingdom,Belgium,1001,"$27,521,656","139,437,718","139,437,718"
+186,2017,X,United Kingdom,Br. Virgin Isds,1001,"$4,849","2,100","2,100"
+187,2017,X,United Kingdom,Cameroon,1001,"$8,127",0,657
+188,2017,X,United Kingdom,Canada,1001,"$4,339,515","7,609,140","7,609,140"
+189,2017,X,United Kingdom,China,1001,"$14,461","3,816","3,816"
+190,2017,X,United Kingdom,Cyprus,1001,$324,65,65
+191,2017,X,United Kingdom,Czechia,1001,"$20,030","6,051","6,051"
+192,2017,X,United Kingdom,Denmark,1001,"$23,949","21,642","21,642"
+193,2017,X,United Kingdom,Finland,1001,$716,125,125
+194,2017,X,United Kingdom,France,1001,"$436,414","967,582","967,582"
+195,2017,X,United Kingdom,Germany,1001,"$616,478","3,176,400","3,176,400"
+196,2017,X,United Kingdom,Greece,1001,"$499,170","2,150,290","2,150,290"
+197,2017,X,United Kingdom,"China, Hong Kong SAR",1001,"$6,338","5,215","5,215"
+198,2017,X,United Kingdom,Hungary,1001,$438,62,62
+199,2017,X,United Kingdom,Iceland,1001,"$188,268","1,048,480","1,048,480"
+200,2017,X,United Kingdom,Indonesia,1001,"$22,258","6,242","6,242"
+201,2017,X,United Kingdom,Ireland,1001,"$37,064,255","187,602,119","187,602,119"
+202,2017,X,United Kingdom,Italy,1001,"$5,585,583","26,677,313","26,677,313"
+203,2017,X,United Kingdom,Kenya,1001,"$9,887",500,500
+204,2017,X,United Kingdom,Kuwait,1001,"$5,792",800,800
+205,2017,X,United Kingdom,Latvia,1001,$11,1,1
+206,2017,X,United Kingdom,Lithuania,1001,$23,6,6
+207,2017,X,United Kingdom,Malta,1001,"$23,356","47,699","47,699"
+208,2017,X,United Kingdom,Mexico,1001,"$283,141","20,069","20,069"
+209,2017,X,United Kingdom,Netherlands,1001,"$24,793,901","134,642,915","134,642,915"
+210,2017,X,United Kingdom,New Zealand,1001,"$10,599","20,111","20,111"
+211,2017,X,United Kingdom,Norway,1001,"$1,005,039",0,"2,126,127"
+212,2017,X,United Kingdom,Pakistan,1001,"$12,722","4,388","4,388"
+213,2017,X,United Kingdom,Poland,1001,"$14,970","29,560","29,560"
+214,2017,X,United Kingdom,Portugal,1001,"$8,341,395","40,199,988","40,199,988"
+215,2017,X,United Kingdom,Qatar,1001,"$57,245","15,750","15,750"
+216,2017,X,United Kingdom,Saudi Arabia,1001,"$11,090","1,001","1,001"
+217,2017,X,United Kingdom,Slovakia,1001,$6,2,2
+218,2017,X,United Kingdom,Slovenia,1001,$130,238,238
+219,2017,X,United Kingdom,South Africa,1001,"$61,140","17,015","17,015"
+220,2017,X,United Kingdom,Spain,1001,"$20,935,367","99,908,137","99,908,137"
+221,2017,X,United Kingdom,Sweden,1001,"$6,029","1,336","1,336"
+222,2017,X,United Kingdom,Switzerland,1001,$683,"2,000","2,000"
+223,2017,X,United Kingdom,United Arab Emirates,1001,"$19,360",300,300
+224,2017,X,United Kingdom,Türkiye,1001,"$26,062","17,677","17,677"
+225,2017,X,United Kingdom,USA,1001,"$446,818",0,"22,805"
+226,2018,X,United Kingdom,World,1001,"$84,172,304",0,"358,564,723"
+227,2018,X,United Kingdom,Bahrain,1001,"$30,429","14,974","14,974"
+228,2018,X,United Kingdom,Barbados,1001,"$11,255","2,000","2,000"
+229,2018,X,United Kingdom,Belgium,1001,"$2,316,839","8,932,036","8,932,036"
+230,2018,X,United Kingdom,Bulgaria,1001,"$1,130",500,500
+231,2018,X,United Kingdom,Sri Lanka,1001,"$14,865",89,89
+232,2018,X,United Kingdom,China,1001,"$174,763","46,668","46,668"
+233,2018,X,United Kingdom,Cyprus,1001,$144,85,85
+234,2018,X,United Kingdom,Czechia,1001,"$22,744","7,688","7,688"
+235,2018,X,United Kingdom,Denmark,1001,"$95,348","211,698","211,698"
+236,2018,X,United Kingdom,Estonia,1001,$6,2,2
+237,2018,X,United Kingdom,Falkland Isds (Malvinas),1001,"$1,368",380,380
+238,2018,X,United Kingdom,Finland,1001,$22,10,10
+239,2018,X,United Kingdom,France,1001,"$450,405","928,916","928,916"
+240,2018,X,United Kingdom,Germany,1001,"$104,055","380,721","380,721"
+241,2018,X,United Kingdom,Greece,1001,"$24,259","11,759","11,759"
+242,2018,X,United Kingdom,"China, Hong Kong SAR",1001,"$10,641","44,919","44,919"
+243,2018,X,United Kingdom,Hungary,1001,$125,330,330
+244,2018,X,United Kingdom,Iceland,1001,"$456,108","1,950,000","1,950,000"
+245,2018,X,United Kingdom,Ireland,1001,"$48,013,689","202,050,668","202,050,668"
+246,2018,X,United Kingdom,Italy,1001,"$3,431,987","13,200,093","13,200,093"
+247,2018,X,United Kingdom,Lithuania,1001,$939,217,217
+248,2018,X,United Kingdom,Luxembourg,1001,$44,21,21
+249,2018,X,United Kingdom,Malaysia,1001,"$6,977",0,"14,566"
+250,2018,X,United Kingdom,Malta,1001,"$23,149","21,144","21,144"
+251,2018,X,United Kingdom,Netherlands,1001,"$15,065,277","71,646,774","71,646,774"
+252,2018,X,United Kingdom,Norway,1001,"$38,298","23,600","23,600"
+253,2018,X,United Kingdom,Poland,1001,"$119,000","203,951","203,951"
+254,2018,X,United Kingdom,Portugal,1001,"$996,192","4,394,317","4,394,317"
+255,2018,X,United Kingdom,Qatar,1001,"$2,536",0,"10,147"
+256,2018,X,United Kingdom,Romania,1001,"$9,561","23,084","23,084"
+257,2018,X,United Kingdom,Saudi Arabia,1001,"$7,008",700,700
+258,2018,X,United Kingdom,India,1001,"$1,233",475,475
+259,2018,X,United Kingdom,Slovenia,1001,$169,181,181
+260,2018,X,United Kingdom,South Africa,1001,"$43,774","21,418","21,418"
+261,2018,X,United Kingdom,Spain,1001,"$12,577,083","54,189,582","54,189,582"
+262,2018,X,United Kingdom,Switzerland,1001,"$7,973","7,000","7,000"
+263,2018,X,United Kingdom,United Arab Emirates,1001,"$36,560","42,302","42,302"
+264,2018,X,United Kingdom,Türkiye,1001,"$1,188",100,100
+265,2018,X,United Kingdom,USA,1001,"$75,143","181,605","181,605"
+266,2019,X,United Kingdom,World,1001,"$233,103,679",0,0
+267,2019,X,United Kingdom,Algeria,1001,"$11,504,315","63,000,400","63,000,400"
+268,2019,X,United Kingdom,Australia,1001,"$331,829","7,500","7,500"
+269,2019,X,United Kingdom,Austria,1001,$3,1,1
+270,2019,X,United Kingdom,Barbados,1001,"$24,343","5,394","5,394"
+271,2019,X,United Kingdom,Belgium,1001,"$3,839,418","14,743,369","14,743,369"
+272,2019,X,United Kingdom,Bulgaria,1001,"$10,883","59,380","59,380"
+273,2019,X,United Kingdom,Canada,1001,"$2,298",14,14
+274,2019,X,United Kingdom,China,1001,"$117,987","46,906","46,906"
+275,2019,X,United Kingdom,Cyprus,1001,"$1,261",429,429
+276,2019,X,United Kingdom,Czechia,1001,"$22,134","6,120","6,120"
+277,2019,X,United Kingdom,Denmark,1001,"$70,629","134,836","134,836"
+278,2019,X,United Kingdom,Finland,1001,$54,11,11
+279,2019,X,United Kingdom,France,1001,"$397,521","1,034,455","1,034,455"
+280,2019,X,United Kingdom,Germany,1001,"$1,412,984","6,148,614","6,148,614"
+281,2019,X,United Kingdom,Greece,1001,"$32,510","19,411","19,411"
+282,2019,X,United Kingdom,"China, Hong Kong SAR",1001,"$1,480",8,8
+283,2019,X,United Kingdom,Iceland,1001,"$2,045,767","8,525,546","8,525,546"
+284,2019,X,United Kingdom,Iraq,1001,"$6,408",0,0
+285,2019,X,United Kingdom,Ireland,1001,"$41,703,710","193,872,505","193,872,505"
+286,2019,X,United Kingdom,Italy,1001,"$4,584,092","18,675,141","18,675,141"
+287,2019,X,United Kingdom,Lebanon,1001,"$8,383",700,700
+288,2019,X,United Kingdom,Lithuania,1001,"$1,618",414,414
+289,2019,X,United Kingdom,Luxembourg,1001,$71,22,22
+290,2019,X,United Kingdom,Malaysia,1001,"$7,683",316,316
+291,2019,X,United Kingdom,Malta,1001,"$35,793","52,290","52,290"
+292,2019,X,United Kingdom,Morocco,1001,"$1,414,262","7,053,200","7,053,200"
+293,2019,X,United Kingdom,Netherlands,1001,"$65,651,375","324,676,839","324,676,839"
+294,2019,X,United Kingdom,Norway,1001,"$557,054",0,0
+295,2019,X,United Kingdom,Poland,1001,"$5,528","6,906","6,906"
+296,2019,X,United Kingdom,Portugal,1001,"$23,433,731","115,428,087","115,428,087"
+297,2019,X,United Kingdom,Romania,1001,"$11,772","23,237","23,237"
+298,2019,X,United Kingdom,India,1001,"$7,540",0,0
+299,2019,X,United Kingdom,Slovenia,1001,$118,248,248
+300,2019,X,United Kingdom,South Africa,1001,"$46,613","23,747","23,747"
+301,2019,X,United Kingdom,Spain,1001,"$56,130,101","261,674,920","261,674,920"
+302,2019,X,United Kingdom,Sudan,1001,"$10,854","4,000","4,000"
+303,2019,X,United Kingdom,Sweden,1001,"$4,972,449","22,790,987","22,790,987"
+304,2019,X,United Kingdom,Switzerland,1001,$360,"1,400","1,400"
+305,2019,X,United Kingdom,United Arab Emirates,1001,"$9,608","9,841","9,841"
+306,2019,X,United Kingdom,Türkiye,1001,"$5,473,041","17,558,800","17,558,800"
+307,2019,X,United Kingdom,USA,1001,"$9,216,078","53,177,974","53,177,974"
+308,2020,X,United Kingdom,World,1001,"$118,926,027",0,0
+309,2020,X,United Kingdom,Algeria,1001,"$7,535,195","32,000,000","32,000,000"
+310,2020,X,United Kingdom,Australia,1001,"$32,309","16,326","16,326"
+311,2020,X,United Kingdom,Austria,1001,$1,1,1
+312,2020,X,United Kingdom,Bahrain,1001,"$7,817","4,768","4,768"
+313,2020,X,United Kingdom,Barbados,1001,"$1,166",188,188
+314,2020,X,United Kingdom,Belgium,1001,"$3,646,411","16,189,880","16,189,880"
+315,2020,X,United Kingdom,Canada,1001,"$50,302",0,0
+316,2020,X,United Kingdom,China,1001,"$65,446","18,504","18,504"
+317,2020,X,United Kingdom,Cyprus,1001,"$1,540",536,536
+318,2020,X,United Kingdom,Czechia,1001,"$20,419","5,772","5,772"
+319,2020,X,United Kingdom,Denmark,1001,"$19,079","37,729","37,729"
+320,2020,X,United Kingdom,Falkland Isds (Malvinas),1001,$475,"1,006","1,006"
+321,2020,X,United Kingdom,Finland,1001,$435,290,290
+322,2020,X,United Kingdom,France,1001,"$2,057,340","17,413","17,413"
+323,2020,X,United Kingdom,Germany,1001,"$2,025,663","6,525,380","6,525,380"
+324,2020,X,United Kingdom,Greece,1001,"$36,754","70,476","70,476"
+325,2020,X,United Kingdom,Hungary,1001,$42,12,12
+326,2020,X,United Kingdom,Iceland,1001,"$883,997","4,219,348","4,219,348"
+327,2020,X,United Kingdom,Ireland,1001,"$42,028,151","189,936,438","189,936,438"
+328,2020,X,United Kingdom,Israel,1001,"$274,155",0,0
+329,2020,X,United Kingdom,Italy,1001,"$3,066,766","12,650,003","12,650,003"
+330,2020,X,United Kingdom,Kuwait,1001,"$4,670",29,29
+331,2020,X,United Kingdom,Lebanon,1001,"$1,770",79,79
+332,2020,X,United Kingdom,Liberia,1001,"$1,980",250,250
+333,2020,X,United Kingdom,Lithuania,1001,"$2,351",597,597
+334,2020,X,United Kingdom,Luxembourg,1001,$27,27,27
+335,2020,X,United Kingdom,Malaysia,1001,"$1,352",180,180
+336,2020,X,United Kingdom,Malta,1001,"$22,240","23,073","23,073"
+337,2020,X,United Kingdom,Netherlands,1001,"$13,533,700","60,461,819","60,461,819"
+338,2020,X,United Kingdom,New Zealand,1001,"$1,810",0,0
+339,2020,X,United Kingdom,Nigeria,1001,"$22,208,967","106,552,000","106,552,000"
+340,2020,X,United Kingdom,Norway,1001,"$29,327",0,0
+341,2020,X,United Kingdom,Poland,1001,$627,104,104
+342,2020,X,United Kingdom,Portugal,1001,"$5,798,251","24,634,388","24,634,388"
+343,2020,X,United Kingdom,Qatar,1001,"$28,794","2,218","2,218"
+344,2020,X,United Kingdom,Romania,1001,"$1,543",404,404
+345,2020,X,United Kingdom,Saudi Arabia,1001,"$369,968","11,119","11,119"
+346,2020,X,United Kingdom,India,1001,"$9,291",627,627
+347,2020,X,United Kingdom,South Africa,1001,"$1,292",412,412
+348,2020,X,United Kingdom,Spain,1001,"$15,076,753","66,259,183","66,259,183"
+349,2020,X,United Kingdom,Sweden,1001,$51,8,8
+350,2020,X,United Kingdom,Switzerland,1001,"$8,001","3,449","3,449"
+351,2020,X,United Kingdom,United Arab Emirates,1001,"$13,356","1,497","1,497"
+352,2020,X,United Kingdom,USA,1001,"$56,423","209,968","209,968"
+353,2021,X,United Kingdom,World,1001,"$87,976,612",0,0
+354,2021,X,United Kingdom,Angola,1001,"$1,724",280,280
+355,2021,X,United Kingdom,Australia,1001,"$11,924",0,0
+356,2021,X,United Kingdom,Belgium,1001,"$2,041,935","6,543,267","6,543,267"
+357,2021,X,United Kingdom,Czechia,1001,"$5,322","3,006","3,006"
+358,2021,X,United Kingdom,Denmark,1001,"$16,544","15,978","15,978"
+359,2021,X,United Kingdom,France,1001,"$795,523","2,271,328","2,271,328"
+360,2021,X,United Kingdom,Germany,1001,"$89,820","436,502","436,502"
+361,2021,X,United Kingdom,Ghana,1001,"$2,785",719,719
+362,2021,X,United Kingdom,"China, Hong Kong SAR",1001,"$71,160",0,0
+363,2021,X,United Kingdom,Iceland,1001,"$259,909","851,220","851,220"
+364,2021,X,United Kingdom,Ireland,1001,"$35,853,032","133,143,513","133,143,513"
+365,2021,X,United Kingdom,Israel,1001,"$35,747","20,000","20,000"
+366,2021,X,United Kingdom,Italy,1001,"$10,063","3,043","3,043"
+367,2021,X,United Kingdom,Kuwait,1001,"$1,346",15,15
+368,2021,X,United Kingdom,Malta,1001,"$75,895","36,314","36,314"
+369,2021,X,United Kingdom,"Other Asia, nes",1001,"$3,633",0,0
+370,2021,X,United Kingdom,Netherlands,1001,"$6,662,050",0,0
+371,2021,X,United Kingdom,Poland,1001,"$2,926","13,959","13,959"
+372,2021,X,United Kingdom,Portugal,1001,"$7,410,923","22,347,310","22,347,310"
+373,2021,X,United Kingdom,Qatar,1001,$279,"1,750","1,750"
+374,2021,X,United Kingdom,Saudi Arabia,1001,"$5,904","1,144","1,144"
+375,2021,X,United Kingdom,Slovenia,1001,"$1,706",0,0
+376,2021,X,United Kingdom,South Africa,1001,"$1,239",376,376
+377,2021,X,United Kingdom,Spain,1001,"$34,352,412","102,429,574","102,429,574"
+378,2021,X,United Kingdom,Sweden,1001,"$29,671",0,0
+379,2021,X,United Kingdom,Switzerland,1001,"$1,775",18,18
+380,2021,X,United Kingdom,Thailand,1001,"$1,360",0,0
+381,2021,X,United Kingdom,United Arab Emirates,1001,"$15,165","3,590","3,590"
+382,2021,X,United Kingdom,Türkiye,1001,"$1,889",0,0
+383,2021,X,United Kingdom,USA,1001,"$212,937","242,015","242,015"
+384,2022,X,United Kingdom,World,1001,"$310,759,419",0,0
+385,2022,X,United Kingdom,Algeria,1001,"$11,586,906","31,500,000","31,500,000"
+386,2022,X,United Kingdom,Armenia,1001,"$3,022",516,516
+387,2022,X,United Kingdom,Belgium,1001,"$13,228,250",0,0
+388,2022,X,United Kingdom,Canada,1001,"$54,644","68,247","68,247"
+389,2022,X,United Kingdom,Czechia,1001,"$10,224","6,569","6,569"
+390,2022,X,United Kingdom,Denmark,1001,"$269,236","515,137","515,137"
+391,2022,X,United Kingdom,Estonia,1001,"$10,383",0,0
+392,2022,X,United Kingdom,France,1001,"$338,576","923,273","923,273"
+393,2022,X,United Kingdom,Germany,1001,"$7,539","15,488","15,488"
+394,2022,X,United Kingdom,"China, Hong Kong SAR",1001,"$71,337","48,008","48,008"
+395,2022,X,United Kingdom,Hungary,1001,"$1,206",54,54
+396,2022,X,United Kingdom,Iceland,1001,"$3,795,825","11,221,754","11,221,754"
+397,2022,X,United Kingdom,Ireland,1001,"$64,061,072","190,872,637","190,872,637"
+398,2022,X,United Kingdom,Israel,1001,"$1,318",41,41
+399,2022,X,United Kingdom,Italy,1001,"$1,942,429","4,417,449","4,417,449"
+400,2022,X,United Kingdom,Latvia,1001,"$1,359",10,10
+401,2022,X,United Kingdom,Mozambique,1001,"$10,265","1,800","1,800"
+402,2022,X,United Kingdom,Oman,1001,"$1,442","2,822","2,822"
+403,2022,X,United Kingdom,Netherlands,1001,"$72,251,671",0,0
+404,2022,X,United Kingdom,New Zealand,1001,"$39,617",188,188
+405,2022,X,United Kingdom,Nigeria,1001,"$2,005",63,63
+406,2022,X,United Kingdom,Norway,1001,"$371,901","1,000,000","1,000,000"
+407,2022,X,United Kingdom,Portugal,1001,"$19,683,312","55,544,800","55,544,800"
+408,2022,X,United Kingdom,Saudi Arabia,1001,"$4,570","1,050","1,050"
+409,2022,X,United Kingdom,Singapore,1001,"$2,131",650,650
+410,2022,X,United Kingdom,South Africa,1001,"$10,475",0,0
+411,2022,X,United Kingdom,Spain,1001,"$110,112,758","305,149,370","305,149,370"
+412,2022,X,United Kingdom,Sweden,1001,"$4,768","1,747","1,747"
+413,2022,X,United Kingdom,Switzerland,1001,"$2,319",0,0
+414,2022,X,United Kingdom,USA,1001,"$102,986","206,870","206,870"
+415,2022,X,United Kingdom,"Areas, nes",1001,"$12,775,861","32,228,780","32,228,780"
+416,2023,X,United Kingdom,World,1001,"$349,338,344",0,0
+417,2023,X,United Kingdom,Algeria,1001,"$8,165,913","27,354,600","27,354,600"
+418,2023,X,United Kingdom,Australia,1001,"$85,770","10,150","10,150"
+419,2023,X,United Kingdom,Belgium,1001,"$1,583,319",0,0
+420,2023,X,United Kingdom,Brazil,1001,"$12,384","27,725","27,725"
+421,2023,X,United Kingdom,Bulgaria,1001,"$5,864","5,167","5,167"
+422,2023,X,United Kingdom,Canada,1001,"$62,690","1,200","1,200"
+423,2023,X,United Kingdom,China,1001,"$1,653,493","19,679","19,679"
+424,2023,X,United Kingdom,Denmark,1001,"$37,862","19,660","19,660"
+425,2023,X,United Kingdom,France,1001,"$202,726","138,140","138,140"
+426,2023,X,United Kingdom,Germany,1001,"$15,412",0,0
+427,2023,X,United Kingdom,"China, Hong Kong SAR",1001,"$18,498","1,275","1,275"
+428,2023,X,United Kingdom,Iceland,1001,"$3,203,467","12,017,040","12,017,040"
+429,2023,X,United Kingdom,Ireland,1001,"$44,127,213",0,0
+430,2023,X,United Kingdom,Israel,1001,"$43,866","1,600","1,600"
+431,2023,X,United Kingdom,Italy,1001,"$1,800,344",0,0
+432,2023,X,United Kingdom,Latvia,1001,"$219,130","953,000","953,000"
+433,2023,X,United Kingdom,"China, Macao SAR",1001,"$19,421",0,0
+434,2023,X,United Kingdom,Maldives,1001,"$1,935",310,310
+435,2023,X,United Kingdom,Rep. of Moldova,1001,"$1,363",985,985
+436,2023,X,United Kingdom,Morocco,1001,"$1,393,216","5,487,620","5,487,620"
+437,2023,X,United Kingdom,Netherlands,1001,"$66,129,353",0,0
+438,2023,X,United Kingdom,Norway,1001,"$4,739",885,885
+439,2023,X,United Kingdom,Poland,1001,"$4,019",960,960
+440,2023,X,United Kingdom,Portugal,1001,"$32,042,970","107,644,788","107,644,788"
+441,2023,X,United Kingdom,India,1001,"$35,815","30,670","30,670"
+442,2023,X,United Kingdom,Singapore,1001,"$2,021",49,49
+443,2023,X,United Kingdom,Spain,1001,"$169,812,031","571,105,640","571,105,640"
+444,2023,X,United Kingdom,Sweden,1001,"$15,507","5,276","5,276"
+445,2023,X,United Kingdom,Switzerland,1001,"$9,648,383","27,000,000","27,000,000"
+446,2023,X,United Kingdom,United Arab Emirates,1001,"$40,715","2,692","2,692"
+447,2023,X,United Kingdom,Türkiye,1001,"$7,552","18,144","18,144"
+448,2023,X,United Kingdom,USA,1001,"$111,691","267,264","267,264"
+449,2023,X,United Kingdom,"Areas, nes",1001,"$8,829,650","30,744,856","30,744,856"

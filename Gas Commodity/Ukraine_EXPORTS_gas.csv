@@ -1,0 +1,116 @@
+,Period,Trade Flow,Reporter,Partner,Commodity Code,Trade Value (US$),Net Weight(kg),Qty Unit
+0,2012,X,Ukraine,World,2711,"$80,057,770","82,167,379","82,167,379"
+1,2012,X,Ukraine,Azerbaijan,2711,"$3,860",5,5
+2,2012,X,Ukraine,Belize,2711,$70,21,21
+3,2012,X,Ukraine,Cyprus,2711,$253,45,45
+4,2012,X,Ukraine,Georgia,2711,$274,1,1
+5,2012,X,Ukraine,Italy,2711,"$4,103,028","5,709,200","5,709,200"
+6,2012,X,Ukraine,Kazakhstan,2711,"$234,907","39,948","39,948"
+7,2012,X,Ukraine,Morocco,2711,"$3,374,354","3,998,050","3,998,050"
+8,2012,X,Ukraine,Panama,2711,"$374,860","347,681","347,681"
+9,2012,X,Ukraine,Russian Federation,2711,"$62,770,083","60,789,800","60,789,800"
+10,2012,X,Ukraine,Türkiye,2711,"$7,521,522","9,290,050","9,290,050"
+11,2012,X,Ukraine,Egypt,2711,"$1,673,742","1,992,550","1,992,550"
+12,2012,X,Ukraine,United Kingdom,2711,$60,26,26
+13,2012,X,Ukraine,Uzbekistan,2711,$756,3,3
+14,2013,X,Ukraine,World,2711,"$355,252","118,919","118,919"
+15,2013,X,Ukraine,Kazakhstan,2711,"$295,999","74,000","74,000"
+16,2013,X,Ukraine,Rep. of Moldova,2711,"$1,297",0,0
+17,2013,X,Ukraine,Netherlands,2711,$110,10,10
+18,2013,X,Ukraine,Marshall Isds,2711,$140,41,41
+19,2013,X,Ukraine,Panama,2711,$171,28,28
+20,2013,X,Ukraine,Russian Federation,2711,"$31,500","9,000","9,000"
+21,2013,X,Ukraine,Serbia,2711,"$26,034","35,840","35,840"
+22,2014,X,Ukraine,World,2711,"$5,572",154,154
+23,2014,X,Ukraine,Austria,2711,$10,1,1
+24,2014,X,Ukraine,Cyprus,2711,$43,2,2
+25,2014,X,Ukraine,Rep. of Moldova,2711,"$1,106",0,0
+26,2014,X,Ukraine,Netherlands,2711,"$1,081",10,10
+27,2014,X,Ukraine,Slovenia,2711,$37,2,2
+28,2014,X,Ukraine,United Kingdom,2711,"$1,524",133,133
+29,2014,X,Ukraine,Uzbekistan,2711,"$1,771",6,6
+30,2015,X,Ukraine,World,2711,"$215,467","55,120","55,120"
+31,2015,X,Ukraine,Kazakhstan,2711,"$207,436","36,000","36,000"
+32,2015,X,Ukraine,Serbia,2711,"$8,031","19,120","19,120"
+33,2016,X,Ukraine,World,2711,"$31,315",0,"44,161"
+34,2016,X,Ukraine,Bangladesh,2711,$948,0,"3,322"
+35,2016,X,Ukraine,Bulgaria,2711,$16,1,1
+36,2016,X,Ukraine,Belarus,2711,"$3,607","18,500","18,500"
+37,2016,X,Ukraine,Canada,2711,$23,0,0
+38,2016,X,Ukraine,Cyprus,2711,$40,2,2
+39,2016,X,Ukraine,Kazakhstan,2711,"$18,000","3,000","3,000"
+40,2016,X,Ukraine,Serbia,2711,"$8,631","19,180","19,180"
+41,2016,X,Ukraine,Sierra Leone,2711,$47,154,154
+42,2017,X,Ukraine,World,2711,"$10,077,000","18,567,242","18,567,242"
+43,2017,X,Ukraine,Austria,2711,$89,1,1
+44,2017,X,Ukraine,Kazakhstan,2711,"$154,499","23,500","23,500"
+45,2017,X,Ukraine,Lithuania,2711,$14,0,0
+46,2017,X,Ukraine,Rep. of Moldova,2711,$481,"1,028","1,028"
+47,2017,X,Ukraine,Marshall Isds,2711,$9,1,1
+48,2017,X,Ukraine,Panama,2711,$14,1,1
+49,2017,X,Ukraine,Romania,2711,"$22,500","74,260","74,260"
+50,2017,X,Ukraine,Russian Federation,2711,"$9,885,032","18,439,790","18,439,790"
+51,2017,X,Ukraine,Slovakia,2711,"$14,358","28,660","28,660"
+52,2018,X,Ukraine,World,2711,"$22,381,706",0,"35,469,629"
+53,2018,X,Ukraine,Bulgaria,2711,$59,63,63
+54,2018,X,Ukraine,Belarus,2711,$178,0,496
+55,2018,X,Ukraine,Czechia,2711,"$8,478,722","12,765,970","12,765,970"
+56,2018,X,Ukraine,Germany,2711,"$2,093,263","2,953,540","2,953,540"
+57,2018,X,Ukraine,"China, Hong Kong SAR",2711,$315,8,8
+58,2018,X,Ukraine,Hungary,2711,"$4,087,198","4,960,710","4,960,710"
+59,2018,X,Ukraine,Liberia,2711,$60,2,2
+60,2018,X,Ukraine,Malta,2711,$10,2,2
+61,2018,X,Ukraine,Rep. of Moldova,2711,"$11,274","4,149","4,149"
+62,2018,X,Ukraine,Marshall Isds,2711,$228,42,42
+63,2018,X,Ukraine,Poland,2711,$180,0,0
+64,2018,X,Ukraine,Portugal,2711,"$1,809,308","2,985,660","2,985,660"
+65,2018,X,Ukraine,Romania,2711,"$321,476","975,150","975,150"
+66,2018,X,Ukraine,Russian Federation,2711,"$1,815,170","4,033,710","4,033,710"
+67,2018,X,Ukraine,Singapore,2711,$100,6,6
+68,2018,X,Ukraine,Slovakia,2711,"$1,081,735","1,966,920","1,966,920"
+69,2018,X,Ukraine,United Arab Emirates,2711,"$2,682,424","4,823,200","4,823,200"
+70,2019,X,Ukraine,World,2711,"$32,550,159","58,836,186","58,836,186"
+71,2019,X,Ukraine,Czechia,2711,"$21,469,508","38,979,610","38,979,610"
+72,2019,X,Ukraine,Germany,2711,"$6,485,389","11,339,810","11,339,810"
+73,2019,X,Ukraine,Hungary,2711,"$3,747,892","6,863,900","6,863,900"
+74,2019,X,Ukraine,Kazakhstan,2711,"$50,000","10,000","10,000"
+75,2019,X,Ukraine,Rep. of Moldova,2711,"$13,021","4,706","4,706"
+76,2019,X,Ukraine,Russian Federation,2711,"$784,347","1,638,160","1,638,160"
+77,2020,X,Ukraine,World,2711,"$7,228,538","16,842,171","16,842,171"
+78,2020,X,Ukraine,Belize,2711,$279,4,4
+79,2020,X,Ukraine,Czechia,2711,"$6,247,149","12,943,200","12,943,200"
+80,2020,X,Ukraine,Germany,2711,"$619,305","1,072,040","1,072,040"
+81,2020,X,Ukraine,Kazakhstan,2711,"$49,574","15,979","15,979"
+82,2020,X,Ukraine,Malta,2711,$12,0,0
+83,2020,X,Ukraine,Rep. of Moldova,2711,"$30,166","8,245","8,245"
+84,2020,X,Ukraine,Marshall Isds,2711,$19,1,1
+85,2020,X,Ukraine,Romania,2711,"$282,031","2,802,700","2,802,700"
+86,2021,X,Ukraine,World,2711,"$51,369,395","104,090,822","104,090,822"
+87,2021,X,Ukraine,Austria,2711,"$6,129,700","27,741,410","27,741,410"
+88,2021,X,Ukraine,Czechia,2711,"$5,150,799","7,038,620","7,038,620"
+89,2021,X,Ukraine,Germany,2711,"$6,530,861","7,918,760","7,918,760"
+90,2021,X,Ukraine,Hungary,2711,"$17,663,498","41,985,918","41,985,918"
+91,2021,X,Ukraine,Liberia,2711,$241,18,18
+92,2021,X,Ukraine,Rep. of Moldova,2711,"$5,958,468","8,600,362","8,600,362"
+93,2021,X,Ukraine,Marshall Isds,2711,$59,4,4
+94,2021,X,Ukraine,Poland,2711,"$8,150,792","5,344,450","5,344,450"
+95,2021,X,Ukraine,Romania,2711,"$1,905","3,178","3,178"
+96,2021,X,Ukraine,Russian Federation,2711,"$76,941","98,443","98,443"
+97,2021,X,Ukraine,Slovakia,2711,"$1,706,127","5,359,659","5,359,659"
+98,2022,X,Ukraine,World,2711,"$48,595,195","44,631,202","44,631,202"
+99,2022,X,Ukraine,Germany,2711,"$2,747,625","2,995,680","2,995,680"
+100,2022,X,Ukraine,Hungary,2711,"$29,992,782","18,769,592","18,769,592"
+101,2022,X,Ukraine,Liberia,2711,$145,2,2
+102,2022,X,Ukraine,Rep. of Moldova,2711,"$8,128","2,033","2,033"
+103,2022,X,Ukraine,Poland,2711,"$9,235,389","4,686,092","4,686,092"
+104,2022,X,Ukraine,Singapore,2711,$549,28,28
+105,2022,X,Ukraine,Slovakia,2711,"$6,610,575","18,177,774","18,177,774"
+106,2023,X,Ukraine,World,2711,"$23,488","22,408","22,408"
+107,2023,X,Ukraine,Bulgaria,2711,$23,2,2
+108,2023,X,Ukraine,Czechia,2711,$53,18,18
+109,2023,X,Ukraine,Greece,2711,$71,6,6
+110,2023,X,Ukraine,Latvia,2711,"$8,910","18,380","18,380"
+111,2023,X,Ukraine,Rep. of Moldova,2711,"$14,174","3,939","3,939"
+112,2023,X,Ukraine,Norway,2711,$31,1,1
+113,2023,X,Ukraine,Slovakia,2711,$123,7,7
+114,2023,X,Ukraine,Uzbekistan,2711,$102,52,52

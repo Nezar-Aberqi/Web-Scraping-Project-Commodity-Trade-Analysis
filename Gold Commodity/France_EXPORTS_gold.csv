@@ -1,0 +1,501 @@
+,Period,Trade Flow,Reporter,Partner,Commodity Code,Trade Value (US$),Net Weight(kg),Qty Unit
+0,2012,X,France,World,7108,"$2,340,550,548","54,559","54,559"
+1,2012,X,France,Algeria,7108,"$5,465,777",101,101
+2,2012,X,France,Australia,7108,"$70,379",4,4
+3,2012,X,France,Austria,7108,"$780,943",15,15
+4,2012,X,France,Belgium,7108,"$52,248,763","1,494","1,494"
+5,2012,X,France,Brazil,7108,"$377,678",23,23
+6,2012,X,France,Bulgaria,7108,$429,3,3
+7,2012,X,France,Canada,7108,"$72,797",12,12
+8,2012,X,France,China,7108,"$2,479,350",88,88
+9,2012,X,France,Costa Rica,7108,"$22,606",18,18
+10,2012,X,France,Cyprus,7108,"$3,523",2,2
+11,2012,X,France,Denmark,7108,"$63,583",5,5
+12,2012,X,France,Finland,7108,"$1,218",4,4
+13,2012,X,France,French Polynesia,7108,"$55,033",3,3
+14,2012,X,France,Georgia,7108,$732,1,1
+15,2012,X,France,Germany,7108,"$26,343,371",834,834
+16,2012,X,France,Greece,7108,"$1,297",3,3
+17,2012,X,France,"China, Hong Kong SAR",7108,"$5,681,648",149,149
+18,2012,X,France,Hungary,7108,"$6,082",4,4
+19,2012,X,France,Ireland,7108,$26,0,0
+20,2012,X,France,Italy,7108,"$1,268,289,378","27,633","27,633"
+21,2012,X,France,Côte d'Ivoire,7108,"$51,351",38,38
+22,2012,X,France,Kuwait,7108,"$4,269",2,2
+23,2012,X,France,Lebanon,7108,"$112,388",5,5
+24,2012,X,France,Lithuania,7108,$63,2,2
+25,2012,X,France,Luxembourg,7108,"$689,745",80,80
+26,2012,X,France,Malta,7108,$327,1,1
+27,2012,X,France,Mauritius,7108,"$2,393,636",95,95
+28,2012,X,France,Mexico,7108,"$12,737",9,9
+29,2012,X,France,"Other Asia, nes",7108,"$67,196",39,39
+30,2012,X,France,Morocco,7108,"$8,839",4,4
+31,2012,X,France,Oman,7108,"$1,796",3,3
+32,2012,X,France,Netherlands,7108,"$28,042",10,10
+33,2012,X,France,New Caledonia,7108,"$71,052",7,7
+34,2012,X,France,New Zealand,7108,"$5,430",0,0
+35,2012,X,France,Norway,7108,"$94,800",4,4
+36,2012,X,France,Philippines,7108,"$19,434",0,0
+37,2012,X,France,Poland,7108,"$991,455",22,22
+38,2012,X,France,Portugal,7108,"$13,652,682",500,500
+39,2012,X,France,Romania,7108,"$3,095,325",85,85
+40,2012,X,France,Saudi Arabia,7108,"$105,544",48,48
+41,2012,X,France,Singapore,7108,"$4,076",165,165
+42,2012,X,France,Viet Nam,7108,"$9,179,066",276,276
+43,2012,X,France,Spain,7108,"$655,870,376","12,634","12,634"
+44,2012,X,France,Sweden,7108,"$714,269",18,18
+45,2012,X,France,Switzerland,7108,"$266,080,313","8,926","8,926"
+46,2012,X,France,Thailand,7108,"$2,148,247",134,134
+47,2012,X,France,United Arab Emirates,7108,"$68,052",9,9
+48,2012,X,France,Tunisia,7108,"$672,283",26,26
+49,2012,X,France,Türkiye,7108,"$2,503,917",66,66
+50,2012,X,France,United Kingdom,7108,"$937,871",134,134
+51,2012,X,France,USA,7108,"$19,001,355",819,819
+52,2013,X,France,World,7108,"$1,453,626,497","41,214","41,214"
+53,2013,X,France,Algeria,7108,"$3,154,831",71,71
+54,2013,X,France,Australia,7108,"$78,197",6,6
+55,2013,X,France,Austria,7108,"$5,700",8,8
+56,2013,X,France,Bahrain,7108,"$1,640",1,1
+57,2013,X,France,Belgium,7108,"$16,195,322","1,009","1,009"
+58,2013,X,France,Brazil,7108,"$260,810",10,10
+59,2013,X,France,Bulgaria,7108,$137,1,1
+60,2013,X,France,Canada,7108,"$88,842",36,36
+61,2013,X,France,China,7108,"$1,144,881",44,44
+62,2013,X,France,Cyprus,7108,"$7,201",6,6
+63,2013,X,France,Czechia,7108,"$7,016",11,11
+64,2013,X,France,Denmark,7108,"$148,846",8,8
+65,2013,X,France,Dominican Rep.,7108,$620,0,0
+66,2013,X,France,Estonia,7108,$386,2,2
+67,2013,X,France,Finland,7108,$920,9,9
+68,2013,X,France,French Polynesia,7108,"$62,119",3,3
+69,2013,X,France,Germany,7108,"$11,086,656",627,627
+70,2013,X,France,Greece,7108,"$2,289",5,5
+71,2013,X,France,Guatemala,7108,$126,6,6
+72,2013,X,France,"China, Hong Kong SAR",7108,"$3,122,139",99,99
+73,2013,X,France,Hungary,7108,$278,2,2
+74,2013,X,France,Ireland,7108,$44,1,1
+75,2013,X,France,Israel,7108,"$139,340",9,9
+76,2013,X,France,Italy,7108,"$750,432,748","19,127","19,127"
+77,2013,X,France,Côte d'Ivoire,7108,"$2,020",1,1
+78,2013,X,France,Japan,7108,"$63,653",7,7
+79,2013,X,France,Rep. of Korea,7108,"$2,285",2,2
+80,2013,X,France,Kuwait,7108,"$33,766",1,1
+81,2013,X,France,Lebanon,7108,"$36,658",2,2
+82,2013,X,France,Libya,7108,"$30,658",60,60
+83,2013,X,France,Luxembourg,7108,"$855,869",120,120
+84,2013,X,France,Malta,7108,$182,1,1
+85,2013,X,France,Mauritius,7108,"$10,477,005",302,302
+86,2013,X,France,Mexico,7108,$254,3,3
+87,2013,X,France,"Other Asia, nes",7108,"$16,067",3,3
+88,2013,X,France,Morocco,7108,"$10,065",2,2
+89,2013,X,France,Oman,7108,"$3,744",35,35
+90,2013,X,France,Netherlands,7108,"$1,144,327",65,65
+91,2013,X,France,New Caledonia,7108,"$154,435",20,20
+92,2013,X,France,New Zealand,7108,"$12,641",1,1
+93,2013,X,France,Norway,7108,"$89,853",6,6
+94,2013,X,France,Philippines,7108,"$9,737",4,4
+95,2013,X,France,Poland,7108,"$3,881",16,16
+96,2013,X,France,Portugal,7108,"$10,346,339",415,415
+97,2013,X,France,Qatar,7108,"$3,347",1,1
+98,2013,X,France,Romania,7108,"$1,292,399",63,63
+99,2013,X,France,Russian Federation,7108,"$9,352",1,1
+100,2013,X,France,Saudi Arabia,7108,"$22,874",2,2
+101,2013,X,France,India,7108,"$23,834",12,12
+102,2013,X,France,Singapore,7108,"$46,703",30,30
+103,2013,X,France,Slovakia,7108,$360,2,2
+104,2013,X,France,Viet Nam,7108,"$10,086,263",346,346
+105,2013,X,France,Slovenia,7108,$613,2,2
+106,2013,X,France,Spain,7108,"$415,169,605","9,466","9,466"
+107,2013,X,France,Sweden,7108,"$367,419",13,13
+108,2013,X,France,Switzerland,7108,"$196,138,176","8,353","8,353"
+109,2013,X,France,Thailand,7108,"$1,408,072",32,32
+110,2013,X,France,United Arab Emirates,7108,"$35,769",35,35
+111,2013,X,France,Tunisia,7108,"$550,109",21,21
+112,2013,X,France,Türkiye,7108,"$2,406,341",65,65
+113,2013,X,France,United Kingdom,7108,"$1,866,682",128,128
+114,2013,X,France,USA,7108,"$14,964,050",476,476
+115,2014,X,France,World,7108,"$892,563,148","29,815","29,815"
+116,2014,X,France,Algeria,7108,"$1,142,544",33,33
+117,2014,X,France,Australia,7108,"$62,802",7,7
+118,2014,X,France,Austria,7108,"$814,437",38,38
+119,2014,X,France,Belgium,7108,"$12,962,041",832,832
+120,2014,X,France,Brazil,7108,"$132,447",4,4
+121,2014,X,France,Bulgaria,7108,$490,2,2
+122,2014,X,France,Canada,7108,"$53,699",13,13
+123,2014,X,France,China,7108,"$1,292,169",57,57
+124,2014,X,France,Cyprus,7108,"$9,017",6,6
+125,2014,X,France,Czechia,7108,"$6,442",13,13
+126,2014,X,France,Denmark,7108,$352,3,3
+127,2014,X,France,Equatorial Guinea,7108,"$3,759",2,2
+128,2014,X,France,Finland,7108,$611,6,6
+129,2014,X,France,French Polynesia,7108,"$410,253",15,15
+130,2014,X,France,Germany,7108,"$8,504,871",638,638
+131,2014,X,France,Greece,7108,"$14,419",18,18
+132,2014,X,France,"China, Hong Kong SAR",7108,"$2,830,850",259,259
+133,2014,X,France,Hungary,7108,"$13,688",10,10
+134,2014,X,France,Indonesia,7108,$740,1,1
+135,2014,X,France,Ireland,7108,$316,5,5
+136,2014,X,France,Italy,7108,"$562,291,528","15,774","15,774"
+137,2014,X,France,Côte d'Ivoire,7108,"$49,579",3,3
+138,2014,X,France,Japan,7108,"$28,154",4,4
+139,2014,X,France,Kuwait,7108,$29,4,4
+140,2014,X,France,Lebanon,7108,"$7,143",4,4
+141,2014,X,France,Libya,7108,"$9,262",30,30
+142,2014,X,France,Lithuania,7108,$206,3,3
+143,2014,X,France,Luxembourg,7108,"$6,123,164",305,305
+144,2014,X,France,Malaysia,7108,"$7,029",73,73
+145,2014,X,France,Malta,7108,$424,1,1
+146,2014,X,France,Mauritius,7108,"$18,576,833",541,541
+147,2014,X,France,Mexico,7108,$223,1,1
+148,2014,X,France,"Other Asia, nes",7108,"$12,573",3,3
+149,2014,X,France,Morocco,7108,"$66,757",5,5
+150,2014,X,France,Netherlands,7108,"$89,346",26,26
+151,2014,X,France,New Caledonia,7108,"$115,287",11,11
+152,2014,X,France,Norway,7108,"$73,833",7,7
+153,2014,X,France,Poland,7108,"$43,580",35,35
+154,2014,X,France,Portugal,7108,"$12,939,624",506,506
+155,2014,X,France,Romania,7108,"$1,252,946",59,59
+156,2014,X,France,Senegal,7108,$664,1,1
+157,2014,X,France,Singapore,7108,"$51,655",7,7
+158,2014,X,France,Slovakia,7108,$307,1,1
+159,2014,X,France,Viet Nam,7108,"$7,564,093",284,284
+160,2014,X,France,Spain,7108,"$147,086,440","3,818","3,818"
+161,2014,X,France,Sudan,7108,"$3,441",1,1
+162,2014,X,France,Suriname,7108,"$446,010",9,9
+163,2014,X,France,Sweden,7108,"$13,589",10,10
+164,2014,X,France,Switzerland,7108,"$93,018,989","5,814","5,814"
+165,2014,X,France,Thailand,7108,"$1,371,504",40,40
+166,2014,X,France,United Arab Emirates,7108,"$50,604",11,11
+167,2014,X,France,Tunisia,7108,"$408,617",15,15
+168,2014,X,France,Türkiye,7108,"$774,725",28,28
+169,2014,X,France,Egypt,7108,$868,1,1
+170,2014,X,France,United Kingdom,7108,"$1,108,159",96,96
+171,2014,X,France,USA,7108,"$10,720,018",322,322
+172,2015,X,France,World,7108,"$834,717,694","28,109","28,109"
+173,2015,X,France,Andorra,7108,"$188,679",5,5
+174,2015,X,France,Azerbaijan,7108,"$5,268",3,3
+175,2015,X,France,Australia,7108,"$66,565",17,17
+176,2015,X,France,Austria,7108,"$4,095",20,20
+177,2015,X,France,Belgium,7108,"$8,388,951",549,549
+178,2015,X,France,Brazil,7108,"$263,735",45,45
+179,2015,X,France,Bulgaria,7108,"$1,457",5,5
+180,2015,X,France,Cambodia,7108,"$152,057",5,5
+181,2015,X,France,Canada,7108,"$14,188",5,5
+182,2015,X,France,China,7108,"$941,597",35,35
+183,2015,X,France,Colombia,7108,$1,0,0
+184,2015,X,France,Croatia,7108,$366,2,2
+185,2015,X,France,Cyprus,7108,"$2,661",9,9
+186,2015,X,France,Czechia,7108,"$8,652",28,28
+187,2015,X,France,Denmark,7108,$282,4,4
+188,2015,X,France,Estonia,7108,$135,2,2
+189,2015,X,France,Finland,7108,$319,4,4
+190,2015,X,France,French Polynesia,7108,"$33,758",10,10
+191,2015,X,France,Georgia,7108,$715,1,1
+192,2015,X,France,Germany,7108,"$5,696,944",475,475
+193,2015,X,France,Greece,7108,"$35,765",43,43
+194,2015,X,France,"China, Hong Kong SAR",7108,"$2,257,773",96,96
+195,2015,X,France,Hungary,7108,"$9,481",16,16
+196,2015,X,France,Indonesia,7108,"$4,935",41,41
+197,2015,X,France,Ireland,7108,"$9,089,303",344,344
+198,2015,X,France,Italy,7108,"$410,172,265","12,704","12,704"
+199,2015,X,France,Côte d'Ivoire,7108,"$24,030",2,2
+200,2015,X,France,Japan,7108,"$28,182",4,4
+201,2015,X,France,Rep. of Korea,7108,"$89,819",2,2
+202,2015,X,France,Kuwait,7108,$21,4,4
+203,2015,X,France,Lebanon,7108,"$1,196",2,2
+204,2015,X,France,Lithuania,7108,$154,2,2
+205,2015,X,France,Luxembourg,7108,"$774,285",110,110
+206,2015,X,France,Malaysia,7108,"$5,990",2,2
+207,2015,X,France,Malta,7108,$825,6,6
+208,2015,X,France,Mauritius,7108,"$16,495,623",589,589
+209,2015,X,France,"Other Asia, nes",7108,"$9,597",2,2
+210,2015,X,France,Morocco,7108,"$168,238",4,4
+211,2015,X,France,Oman,7108,"$1,298",1,1
+212,2015,X,France,Netherlands,7108,"$1,030,983",51,51
+213,2015,X,France,New Caledonia,7108,"$79,963",7,7
+214,2015,X,France,Norway,7108,"$79,825",7,7
+215,2015,X,France,Poland,7108,"$3,338",21,21
+216,2015,X,France,Portugal,7108,"$11,197,094",494,494
+217,2015,X,France,Romania,7108,"$975,675",48,48
+218,2015,X,France,Saudi Arabia,7108,"$3,892",1,1
+219,2015,X,France,Singapore,7108,"$23,983",39,39
+220,2015,X,France,Viet Nam,7108,"$4,858,709",209,209
+221,2015,X,France,Spain,7108,"$199,896,483","5,609","5,609"
+222,2015,X,France,Sudan,7108,"$3,012",3,3
+223,2015,X,France,Suriname,7108,"$290,625",8,8
+224,2015,X,France,Sweden,7108,"$21,518",22,22
+225,2015,X,France,Switzerland,7108,"$146,425,990","5,759","5,759"
+226,2015,X,France,Thailand,7108,"$1,065,807",35,35
+227,2015,X,France,United Arab Emirates,7108,"$13,162",4,4
+228,2015,X,France,Tunisia,7108,"$820,714",48,48
+229,2015,X,France,Türkiye,7108,"$520,324",20,20
+230,2015,X,France,Ukraine,7108,$526,0,0
+231,2015,X,France,United Kingdom,7108,"$1,031,263",143,143
+232,2015,X,France,USA,7108,"$11,435,601",382,382
+233,2016,X,France,World,7108,"$1,003,569,201","32,215","32,215"
+234,2016,X,France,Algeria,7108,"$3,226",1,1
+235,2016,X,France,Andorra,7108,"$15,662",0,0
+236,2016,X,France,Australia,7108,"$90,484",11,11
+237,2016,X,France,Austria,7108,"$31,544",32,32
+238,2016,X,France,Belgium,7108,"$10,033,221",650,650
+239,2016,X,France,Brazil,7108,"$268,499",9,9
+240,2016,X,France,Bulgaria,7108,"$2,325",6,6
+241,2016,X,France,Cambodia,7108,"$13,513",1,1
+242,2016,X,France,Canada,7108,"$45,350",6,6
+243,2016,X,France,China,7108,"$1,160,807",30,30
+244,2016,X,France,Croatia,7108,$40,1,1
+245,2016,X,France,Cyprus,7108,"$6,896",7,7
+246,2016,X,France,Czechia,7108,"$6,447",35,35
+247,2016,X,France,Denmark,7108,$241,2,2
+248,2016,X,France,Dominican Rep.,7108,$488,1,1
+249,2016,X,France,Estonia,7108,"$1,047",7,7
+250,2016,X,France,Finland,7108,"$5,033",9,9
+251,2016,X,France,French Polynesia,7108,"$183,018",57,57
+252,2016,X,France,Germany,7108,"$9,074,106",376,376
+253,2016,X,France,Greece,7108,"$48,063",58,58
+254,2016,X,France,"China, Hong Kong SAR",7108,"$1,958,969",93,93
+255,2016,X,France,Hungary,7108,"$1,760",10,10
+256,2016,X,France,Indonesia,7108,"$6,630",2,2
+257,2016,X,France,Ireland,7108,$79,2,2
+258,2016,X,France,Israel,7108,"$2,084",1,1
+259,2016,X,France,Italy,7108,"$515,582,081","14,463","14,463"
+260,2016,X,France,Japan,7108,"$15,814",3,3
+261,2016,X,France,Rep. of Korea,7108,"$1,428",0,0
+262,2016,X,France,Kuwait,7108,"$4,763",40,40
+263,2016,X,France,Lebanon,7108,"$34,618",11,11
+264,2016,X,France,Lithuania,7108,"$1,286",11,11
+265,2016,X,France,Luxembourg,7108,"$1,750,154",135,135
+266,2016,X,France,Malaysia,7108,"$5,535",11,11
+267,2016,X,France,Mauritius,7108,"$24,365,248",803,803
+268,2016,X,France,"Other Asia, nes",7108,"$26,773",5,5
+269,2016,X,France,Morocco,7108,"$7,176",25,25
+270,2016,X,France,Netherlands,7108,"$1,612,008",58,58
+271,2016,X,France,New Caledonia,7108,"$48,430",6,6
+272,2016,X,France,Norway,7108,"$65,208",6,6
+273,2016,X,France,Poland,7108,"$7,063",37,37
+274,2016,X,France,Portugal,7108,"$13,833,845",580,580
+275,2016,X,France,Romania,7108,"$885,212",57,57
+276,2016,X,France,India,7108,"$77,595",2,2
+277,2016,X,France,Singapore,7108,"$35,383",761,761
+278,2016,X,France,Slovakia,7108,$25,1,1
+279,2016,X,France,Viet Nam,7108,"$56,567",9,9
+280,2016,X,France,Spain,7108,"$233,751,516","6,019","6,019"
+281,2016,X,France,Suriname,7108,"$424,061",9,9
+282,2016,X,France,Sweden,7108,"$33,524",21,21
+283,2016,X,France,Switzerland,7108,"$170,404,159","7,084","7,084"
+284,2016,X,France,Thailand,7108,"$1,372,603",42,42
+285,2016,X,France,United Arab Emirates,7108,"$61,477",36,36
+286,2016,X,France,Tunisia,7108,"$355,779",17,17
+287,2016,X,France,Türkiye,7108,"$599,577",26,26
+288,2016,X,France,Ukraine,7108,"$1,797",0,0
+289,2016,X,France,United Kingdom,7108,"$572,849",127,127
+290,2016,X,France,USA,7108,"$14,616,113",402,402
+291,2017,X,France,World,7108,"$1,239,068,054",0,"38,337"
+292,2017,X,France,Algeria,7108,"$17,954,354",418,418
+293,2017,X,France,Andorra,7108,"$2,284,104",49,49
+294,2017,X,France,Australia,7108,"$59,655",9,9
+295,2017,X,France,Austria,7108,"$290,009",66,66
+296,2017,X,France,Bahrain,7108,"$2,470",0,0
+297,2017,X,France,Belgium,7108,"$14,724,159",791,791
+298,2017,X,France,Brazil,7108,"$71,282",2,2
+299,2017,X,France,Bulgaria,7108,$242,1,1
+300,2017,X,France,Canada,7108,"$18,927",38,38
+301,2017,X,France,China,7108,"$1,499,750",42,42
+302,2017,X,France,Croatia,7108,$115,0,0
+303,2017,X,France,Czechia,7108,"$14,536",30,30
+304,2017,X,France,Denmark,7108,$186,0,0
+305,2017,X,France,Dominican Rep.,7108,$168,1,1
+306,2017,X,France,Estonia,7108,$752,0,0
+307,2017,X,France,Fiji,7108,"$2,334",10,10
+308,2017,X,France,Finland,7108,$885,0,0
+309,2017,X,France,French Polynesia,7108,"$263,967",340,340
+310,2017,X,France,Georgia,7108,$594,0,0
+311,2017,X,France,Germany,7108,"$8,540,652",427,427
+312,2017,X,France,Greece,7108,"$38,530",48,48
+313,2017,X,France,"China, Hong Kong SAR",7108,"$1,782,871",79,79
+314,2017,X,France,Hungary,7108,"$40,889",20,20
+315,2017,X,France,Indonesia,7108,"$3,047",0,0
+316,2017,X,France,Ireland,7108,$185,2,2
+317,2017,X,France,Israel,7108,"$2,693",1,1
+318,2017,X,France,Italy,7108,"$338,211,109","10,367","10,367"
+319,2017,X,France,Japan,7108,"$46,122",4,4
+320,2017,X,France,Rep. of Korea,7108,"$4,092",2,2
+321,2017,X,France,Kuwait,7108,"$11,831",0,70
+322,2017,X,France,Lebanon,7108,"$3,371",1,1
+323,2017,X,France,Lithuania,7108,"$3,508",12,12
+324,2017,X,France,Luxembourg,7108,"$664,121",133,133
+325,2017,X,France,Malaysia,7108,"$20,661",70,70
+326,2017,X,France,Mauritius,7108,"$27,876,204",694,694
+327,2017,X,France,Mexico,7108,"$2,085",1,1
+328,2017,X,France,"Other Asia, nes",7108,"$21,642",5,5
+329,2017,X,France,Morocco,7108,"$2,089",1,1
+330,2017,X,France,Netherlands,7108,"$685,668",43,43
+331,2017,X,France,Sint Maarten,7108,"$3,097",1,1
+332,2017,X,France,New Caledonia,7108,"$58,556",9,9
+333,2017,X,France,Vanuatu,7108,"$17,266",1,1
+334,2017,X,France,New Zealand,7108,"$1,332",3,3
+335,2017,X,France,Norway,7108,"$78,884",0,4
+336,2017,X,France,Philippines,7108,"$2,870",1,1
+337,2017,X,France,Poland,7108,"$3,716",0,3
+338,2017,X,France,Portugal,7108,"$13,699,025",551,551
+339,2017,X,France,Romania,7108,"$16,657",18,18
+340,2017,X,France,Russian Federation,7108,"$13,624",1,1
+341,2017,X,France,Saudi Arabia,7108,"$11,309",42,42
+342,2017,X,France,India,7108,"$4,991",3,3
+343,2017,X,France,Singapore,7108,"$107,633",30,30
+344,2017,X,France,Viet Nam,7108,"$12,245,982",327,327
+345,2017,X,France,Spain,7108,"$580,003,070","14,861","14,861"
+346,2017,X,France,Sudan,7108,"$3,004",0,0
+347,2017,X,France,Sweden,7108,"$35,999",31,31
+348,2017,X,France,Switzerland,7108,"$202,819,875","7,253","7,253"
+349,2017,X,France,Thailand,7108,"$668,693",30,30
+350,2017,X,France,Togo,7108,$753,1,1
+351,2017,X,France,United Arab Emirates,7108,"$357,164",86,86
+352,2017,X,France,Tunisia,7108,"$869,374",0,21
+353,2017,X,France,Türkiye,7108,"$458,538",17,17
+354,2017,X,France,Ukraine,7108,"$5,117",0,0
+355,2017,X,France,United Kingdom,7108,"$369,139",92,92
+356,2017,X,France,USA,7108,"$12,062,497",0,"1,172"
+357,2018,X,France,World,7108,"$1,143,067,329","22,908","22,908"
+358,2018,X,France,Algeria,7108,"$31,366",0,0
+359,2018,X,France,Andorra,7108,"$147,544",3,3
+360,2018,X,France,Australia,7108,"$82,320",1,1
+361,2018,X,France,Austria,7108,"$183,569",4,4
+362,2018,X,France,Bahrain,7108,"$2,942",0,0
+363,2018,X,France,Belgium,7108,"$10,442,410",255,255
+364,2018,X,France,Brazil,7108,"$423,490",7,7
+365,2018,X,France,Bulgaria,7108,$106,0,0
+366,2018,X,France,Canada,7108,"$5,667",0,0
+367,2018,X,France,China,7108,"$1,782,599",1,1
+368,2018,X,France,Croatia,7108,$690,0,0
+369,2018,X,France,Cyprus,7108,"$1,387",0,0
+370,2018,X,France,Czechia,7108,"$31,985",0,0
+371,2018,X,France,Denmark,7108,"$6,658",0,0
+372,2018,X,France,Estonia,7108,$829,0,0
+373,2018,X,France,Finland,7108,$883,0,0
+374,2018,X,France,French Polynesia,7108,"$284,426",2,2
+375,2018,X,France,Germany,7108,"$13,914,534",339,339
+376,2018,X,France,Greece,7108,"$16,852",0,0
+377,2018,X,France,Guyana,7108,"$72,765",2,2
+378,2018,X,France,"China, Hong Kong SAR",7108,"$1,727,705",27,27
+379,2018,X,France,Hungary,7108,"$39,109",0,0
+380,2018,X,France,Ireland,7108,"$1,152",0,0
+381,2018,X,France,Israel,7108,"$24,265",0,0
+382,2018,X,France,Italy,7108,"$425,983,600","10,267","10,267"
+383,2018,X,France,Japan,7108,"$68,606",0,0
+384,2018,X,France,Rep. of Korea,7108,"$4,278",0,0
+385,2018,X,France,Kuwait,7108,"$30,738",0,0
+386,2018,X,France,Lebanon,7108,"$36,819",0,0
+387,2018,X,France,Latvia,7108,"$8,001",0,0
+388,2018,X,France,Lithuania,7108,"$1,634",0,0
+389,2018,X,France,Luxembourg,7108,"$319,949",7,7
+390,2018,X,France,Malaysia,7108,"$21,607",1,1
+391,2018,X,France,Malta,7108,"$575,265",13,13
+392,2018,X,France,Mauritius,7108,"$16,819,083",402,402
+393,2018,X,France,Mexico,7108,"$2,180",0,0
+394,2018,X,France,"Other Asia, nes",7108,"$3,173",0,0
+395,2018,X,France,Oman,7108,"$10,963",0,0
+396,2018,X,France,Netherlands,7108,"$4,096,450",98,98
+397,2018,X,France,Sint Maarten,7108,"$3,870",0,0
+398,2018,X,France,New Caledonia,7108,"$54,394",0,0
+399,2018,X,France,Vanuatu,7108,"$18,052",0,0
+400,2018,X,France,New Zealand,7108,"$3,966",0,0
+401,2018,X,France,Norway,7108,"$118,877",1,1
+402,2018,X,France,Philippines,7108,$529,0,0
+403,2018,X,France,Poland,7108,"$56,231",1,1
+404,2018,X,France,Portugal,7108,"$12,295,297",303,303
+405,2018,X,France,Romania,7108,"$14,812",0,0
+406,2018,X,France,Russian Federation,7108,"$13,674",0,0
+407,2018,X,France,Saudi Arabia,7108,"$102,176",2,2
+408,2018,X,France,Senegal,7108,"$75,587",1,1
+409,2018,X,France,India,7108,"$5,058",0,0
+410,2018,X,France,Singapore,7108,"$65,785",0,0
+411,2018,X,France,Slovakia,7108,$118,0,0
+412,2018,X,France,Viet Nam,7108,"$12,487,081",296,296
+413,2018,X,France,Slovenia,7108,$274,0,0
+414,2018,X,France,South Africa,7108,$805,0,0
+415,2018,X,France,Spain,7108,"$434,677,117","10,355","10,355"
+416,2018,X,France,Sudan,7108,"$3,141",0,0
+417,2018,X,France,Sweden,7108,"$36,900",0,0
+418,2018,X,France,Switzerland,7108,"$182,998,663",4,4
+419,2018,X,France,Thailand,7108,"$545,300",10,10
+420,2018,X,France,United Arab Emirates,7108,"$127,240",3,3
+421,2018,X,France,Tunisia,7108,"$947,477",4,4
+422,2018,X,France,Türkiye,7108,"$446,679",11,11
+423,2018,X,France,United Kingdom,7108,"$2,195,568",56,56
+424,2018,X,France,USA,7108,"$18,565,030",409,409
+425,2019,X,France,World,7108,"$1,267,192,895",0,0
+426,2019,X,France,Algeria,7108,"$14,219",1,1
+427,2019,X,France,Andorra,7108,"$140,315",3,3
+428,2019,X,France,Australia,7108,"$69,050",21,21
+429,2019,X,France,Austria,7108,"$163,830",36,36
+430,2019,X,France,Bahrain,7108,"$8,970",0,0
+431,2019,X,France,Belgium,7108,"$4,198,152",0,0
+432,2019,X,France,Brazil,7108,"$86,748",2,2
+433,2019,X,France,Bulgaria,7108,"$3,464",5,5
+434,2019,X,France,Canada,7108,"$6,932",2,2
+435,2019,X,France,China,7108,"$1,763,823",40,36
+436,2019,X,France,Colombia,7108,$555,1,1
+437,2019,X,France,Croatia,7108,"$1,088",3,3
+438,2019,X,France,Cyprus,7108,$922,1,1
+439,2019,X,France,Czechia,7108,"$18,061",38,38
+440,2019,X,France,Denmark,7108,"$1,723",3,3
+441,2019,X,France,Estonia,7108,$918,0,0
+442,2019,X,France,Finland,7108,"$3,473",6,6
+443,2019,X,France,French Polynesia,7108,"$327,031",64,63
+444,2019,X,France,Georgia,7108,$812,0,0
+445,2019,X,France,Germany,7108,"$15,306,561","1,032","1,032"
+446,2019,X,France,Greece,7108,"$20,132",55,55
+447,2019,X,France,Guyana,7108,"$24,295",0,0
+448,2019,X,France,"China, Hong Kong SAR",7108,"$670,721",77,77
+449,2019,X,France,Hungary,7108,"$6,971",20,20
+450,2019,X,France,Indonesia,7108,"$5,538",17,17
+451,2019,X,France,Ireland,7108,"$4,424",8,8
+452,2019,X,France,Israel,7108,"$27,484",3,3
+453,2019,X,France,Italy,7108,"$419,189,321","12,749","12,749"
+454,2019,X,France,Japan,7108,"$108,834",168,167
+455,2019,X,France,Kazakhstan,7108,"$1,427",0,0
+456,2019,X,France,Rep. of Korea,7108,"$4,056",2,2
+457,2019,X,France,Kuwait,7108,"$31,059",118,118
+458,2019,X,France,Lebanon,7108,"$38,881",2,2
+459,2019,X,France,Latvia,7108,"$14,660",8,8
+460,2019,X,France,Lithuania,7108,"$4,364",12,12
+461,2019,X,France,Luxembourg,7108,"$940,592",104,104
+462,2019,X,France,Malaysia,7108,"$26,090",41,40
+463,2019,X,France,Maldives,7108,$33,0,0
+464,2019,X,France,Malta,7108,$842,0,0
+465,2019,X,France,Mauritius,7108,"$7,344,195",142,142
+466,2019,X,France,Mexico,7108,"$2,066",1,1
+467,2019,X,France,"Other Asia, nes",7108,"$4,645",18,18
+468,2019,X,France,Morocco,7108,"$8,971",1,1
+469,2019,X,France,Netherlands,7108,"$5,751,740",184,184
+470,2019,X,France,Sint Maarten,7108,"$3,653",2,2
+471,2019,X,France,New Caledonia,7108,"$51,565",7,7
+472,2019,X,France,Vanuatu,7108,"$17,113",1,1
+473,2019,X,France,New Zealand,7108,"$2,633",5,5
+474,2019,X,France,Norway,7108,"$112,933",7,7
+475,2019,X,France,Peru,7108,"$3,582",0,0
+476,2019,X,France,Philippines,7108,$480,2,2
+477,2019,X,France,Poland,7108,"$10,199",17,17
+478,2019,X,France,Portugal,7108,"$14,712,646",538,538
+479,2019,X,France,Qatar,7108,$912,0,0
+480,2019,X,France,Romania,7108,"$20,273",26,26
+481,2019,X,France,Saint Barthélemy,7108,"$1,620",0,0
+482,2019,X,France,Saudi Arabia,7108,"$32,557",83,83
+483,2019,X,France,Serbia,7108,$409,0,0
+484,2019,X,France,India,7108,"$536,401",13,13
+485,2019,X,France,Singapore,7108,"$168,744",94,83
+486,2019,X,France,Slovakia,7108,$181,0,0
+487,2019,X,France,Viet Nam,7108,"$10,447,963",342,300
+488,2019,X,France,Spain,7108,"$500,300,840","11,344","11,344"
+489,2019,X,France,Sudan,7108,"$3,426",0,0
+490,2019,X,France,Sweden,7108,"$31,964",0,0
+491,2019,X,France,Switzerland,7108,"$265,754,406","9,142","9,027"
+492,2019,X,France,Thailand,7108,"$1,365,811",56,51
+493,2019,X,France,United Arab Emirates,7108,"$130,516",84,84
+494,2019,X,France,Tunisia,7108,"$889,018",69,50
+495,2019,X,France,Türkiye,7108,"$604,618",17,17
+496,2019,X,France,United Kingdom,7108,"$3,504,341",353,353
+497,2019,X,France,USA,7108,"$12,136,067",314,314
+498,2020,X,France,World,7108,"$1,369,338,383",0,"31,338"
+499,2020,X,France,Algeria,7108,"$11,456,839",190,191

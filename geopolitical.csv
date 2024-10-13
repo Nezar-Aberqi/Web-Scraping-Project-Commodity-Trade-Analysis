@@ -1,0 +1,26 @@
+year,country_name,commodity_name,event_happened,target_economic_domain,impact_of_event_on_target_domain
+2019,USA,Crude Petroleum Oil,Shale oil boom,Export,Increase
+2022,USA,Natural Gas,Russia-Ukraine war,Export,Increase
+2020,USA,Crude Petroleum Oil,COVID-19 pandemic,Import,Decrease
+2018,USA,Wheat,Russia-Ukraine war,Export,Increase
+2022,United Kingdom,Crude Petroleum Oil,Brexit referendum,Import,Decrease
+2022,United Kingdom,Wheat,Russia-Ukraine war,Import,Decrease
+2016,Russia,Crude Petroleum Oil,Annexation of Crimea,Export,Decrease
+2022,Russia,Natural Gas,Invasion of Ukraine,Export,Decrease
+2014,Russia,Wheat,Sanctions after Crimea annexation,Export,Decrease
+2022,Russia,Crude Petroleum Oil,Invasion of Ukraine,Export,Decrease
+2014,Ukraine,Wheat,Annexation of Crimea,Export,Decrease
+2014,Ukraine,Wheat,Russia-Ukraine war,Export,Decrease
+2022,China,Crude Petroleum Oil,US-China trade war,Import,Decrease
+2014,China,Natural Gas,COVID-19 pandemic,Import,Decrease
+2016,China,Gold,US-China trade war,Import,Decrease
+2020,China,Wheat,Phase One trade deal,Import,Decrease
+2013,India,Gold,Import duty changes,Import,Decrease
+2022,India,Wheat,Wheat export ban,Export,Decrease
+2016,Saudi Arabia,Crude Petroleum Oil,Gulf Crisis,Export,Decrease
+2022,Saudi Arabia,Natural Gas,Production cuts (OPEC+),Export,Decrease
+2014,France,Crude Petroleum Oil,Arab Spring,Import,Decrease
+2014,France,Wheat,Russia-Ukraine war,Export,Increase
+2022,Qatar,Natural Gas,Post-2022 demand surge (LNG),Export,Increase
+2022,Qatar,Crude Petroleum Oil,OPEC withdrawal,Export,Decrease
+2022,France,Wheat,Russia-Ukraine war,Export,Increase

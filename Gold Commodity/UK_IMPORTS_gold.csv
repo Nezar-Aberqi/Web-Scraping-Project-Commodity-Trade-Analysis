@@ -1,0 +1,501 @@
+,Period,Trade Flow,Reporter,Partner,Commodity Code,Trade Value (US$),Net Weight(kg),Qty Unit
+0,2012,M,Albania,World,7108,"$261,399",5,5
+1,2012,M,Albania,Austria,7108,"$132,414",3,3
+2,2012,M,Albania,France,7108,"$128,986",2,2
+3,2012,M,Algeria,World,7108,"$8,620,561",232,232
+4,2012,M,Algeria,France,7108,"$5,585,371",100,100
+5,2012,M,Algeria,Saudi Arabia,7108,"$1,776,857",31,31
+6,2012,M,Algeria,Spain,7108,"$3,712",79,79
+7,2012,M,Algeria,United Arab Emirates,7108,"$990,252",17,17
+8,2012,M,Algeria,Türkiye,7108,"$264,369",5,5
+9,2012,M,Andorra,World,7108,"$162,796",3,3
+10,2012,M,Andorra,France,7108,$489,0,0
+11,2012,M,Andorra,Spain,7108,"$162,306",3,3
+12,2012,M,Angola,World,7108,"$7,709",70,70
+13,2012,M,Angola,Belgium,7108,$64,1,1
+14,2012,M,Angola,France,7108,$89,1,1
+15,2012,M,Angola,"China, Hong Kong SAR",7108,"$1,661",17,17
+16,2012,M,Angola,Israel,7108,"$1,119",11,11
+17,2012,M,Angola,Italy,7108,$282,0,0
+18,2012,M,Angola,Morocco,7108,"$1,454",14,14
+19,2012,M,Angola,Netherlands,7108,$512,4,4
+20,2012,M,Angola,Singapore,7108,$167,3,3
+21,2012,M,Angola,United Kingdom,7108,"$2,148",17,17
+22,2012,M,Angola,USA,7108,$214,2,2
+23,2012,M,Antigua and Barbuda,World,7108,$393,21,21
+24,2012,M,Antigua and Barbuda,USA,7108,$393,21,21
+25,2012,M,Azerbaijan,World,7108,"$13,693",15,15
+26,2012,M,Azerbaijan,Slovenia,7108,"$13,693",15,15
+27,2012,M,Argentina,World,7108,"$99,631",108,108
+28,2012,M,Argentina,Germany,7108,"$23,066",1,1
+29,2012,M,Argentina,Italy,7108,"$5,177",34,34
+30,2012,M,Argentina,"Other Asia, nes",7108,"$20,547",12,12
+31,2012,M,Argentina,United Kingdom,7108,"$36,010",1,1
+32,2012,M,Argentina,USA,7108,"$14,830",61,61
+33,2012,M,Australia,World,7108,"$5,940,285,465","143,647",0
+34,2012,M,Australia,Australia,7108,"$58,826,270","1,215",0
+35,2012,M,Australia,Austria,7108,"$2,182,900",813,0
+36,2012,M,Australia,Solomon Isds,7108,"$110,950,988","3,147",0
+37,2012,M,Australia,Canada,7108,"$106,480,552","2,892",0
+38,2012,M,Australia,China,7108,"$517,964",148,0
+39,2012,M,Australia,Fiji,7108,"$76,660,996","1,907",0
+40,2012,M,Australia,France,7108,"$74,143",168,0
+41,2012,M,Australia,Germany,7108,"$10,297,793",572,0
+42,2012,M,Australia,Ghana,7108,"$477,088",14,0
+43,2012,M,Australia,"China, Hong Kong SAR",7108,"$76,280,682","1,616",0
+44,2012,M,Australia,Indonesia,7108,"$815,774,375","15,784",0
+45,2012,M,Australia,Israel,7108,"$4,264",1,0
+46,2012,M,Australia,Italy,7108,"$145,736",35,0
+47,2012,M,Australia,Japan,7108,"$238,604,871","7,801",0
+48,2012,M,Australia,Rep. of Korea,7108,"$1,872,050",43,0
+49,2012,M,Australia,Lao People's Dem. Rep.,7108,"$42,324,846","1,358",0
+50,2012,M,Australia,Malaysia,7108,"$231,082,885","5,218",0
+51,2012,M,Australia,Mexico,7108,"$18,281",0,0
+52,2012,M,Australia,"Other Asia, nes",7108,"$4,633",62,0
+53,2012,M,Australia,Netherlands,7108,"$46,494",1,0
+54,2012,M,Australia,New Caledonia,7108,"$313,802",14,0
+55,2012,M,Australia,New Zealand,7108,"$566,522,587","17,458",0
+56,2012,M,Australia,Niger,7108,"$12,749",0,0
+57,2012,M,Australia,Papua New Guinea,7108,"$2,005,658,088","45,738",0
+58,2012,M,Australia,Poland,7108,"$22,139",5,0
+59,2012,M,Australia,India,7108,"$2,107,171",314,0
+60,2012,M,Australia,Singapore,7108,"$1,659,642",46,0
+61,2012,M,Australia,South Africa,7108,"$8,668,152",255,0
+62,2012,M,Australia,Spain,7108,"$29,045",1,0
+63,2012,M,Australia,Sweden,7108,"$88,786",3,0
+64,2012,M,Australia,Switzerland,7108,"$615,496,121","15,227",0
+65,2012,M,Australia,Thailand,7108,"$806,053,159","15,429",0
+66,2012,M,Australia,United Arab Emirates,7108,"$203,010",5,0
+67,2012,M,Australia,Türkiye,7108,"$101,494",4,0
+68,2012,M,Australia,United Kingdom,7108,"$3,362,566",150,0
+69,2012,M,Australia,USA,7108,"$157,359,140","6,202",0
+70,2012,M,Austria,World,7108,"$2,577,624,427",0,0
+71,2012,M,Austria,Australia,7108,"$586,274",11,0
+72,2012,M,Austria,Belgium,7108,"$10,186",0,0
+73,2012,M,Austria,Bosnia Herzegovina,7108,"$215,622",4,0
+74,2012,M,Austria,Canada,7108,"$17,653",0,0
+75,2012,M,Austria,China,7108,"$170,427",0,0
+76,2012,M,Austria,Croatia,7108,"$77,836,368","2,300",0
+77,2012,M,Austria,Czechia,7108,"$21,215,886",404,0
+78,2012,M,Austria,France,7108,$51,0,0
+79,2012,M,Austria,Germany,7108,"$44,348,438",0,0
+80,2012,M,Austria,Greece,7108,"$30,783",1,0
+81,2012,M,Austria,Hungary,7108,"$32,888,766",600,0
+82,2012,M,Austria,Italy,7108,"$832,979",16,0
+83,2012,M,Austria,Japan,7108,$50,0,0
+84,2012,M,Austria,Rep. of Moldova,7108,"$15,620",0,0
+85,2012,M,Austria,Montenegro,7108,"$41,636",1,0
+86,2012,M,Austria,Netherlands,7108,"$2,216",0,0
+87,2012,M,Austria,Norway,7108,"$516,065",10,0
+88,2012,M,Austria,Poland,7108,"$20,058,992",402,0
+89,2012,M,Austria,Romania,7108,"$8,736,616",124,0
+90,2012,M,Austria,Serbia,7108,"$645,070",12,0
+91,2012,M,Austria,Seychelles,7108,"$315,926",6,0
+92,2012,M,Austria,Singapore,7108,$414,0,0
+93,2012,M,Austria,Slovakia,7108,"$7,422,603",113,0
+94,2012,M,Austria,Slovenia,7108,"$2,334,501",43,0
+95,2012,M,Austria,Spain,7108,"$22,765",0,0
+96,2012,M,Austria,Sweden,7108,"$312,389",6,0
+97,2012,M,Austria,Switzerland,7108,"$2,336,845,808",0,0
+98,2012,M,Austria,Thailand,7108,"$207,449",0,0
+99,2012,M,Austria,Türkiye,7108,"$5,196",0,0
+100,2012,M,Austria,Ukraine,7108,"$3,290,055",100,0
+101,2012,M,Austria,United Kingdom,7108,$177,0,0
+102,2012,M,Austria,USA,7108,"$18,697,445",317,0
+103,2012,M,Bahamas,World,7108,"$32,812",655,655
+104,2012,M,Bahamas,USA,7108,"$32,812",655,655
+105,2012,M,Bahrain,World,7108,"$138,399,728","2,816","2,816"
+106,2012,M,Bahrain,China,7108,"$110,577",2,2
+107,2012,M,Bahrain,Germany,7108,"$1,785",1,1
+108,2012,M,Bahrain,United Arab Emirates,7108,"$138,281,651","2,762","2,762"
+109,2012,M,Bahrain,United Kingdom,7108,"$5,715",51,51
+110,2012,M,Armenia,World,7108,"$73,998,790","1,377","1,377"
+111,2012,M,Armenia,Austria,7108,"$12,629,003",232,232
+112,2012,M,Armenia,Canada,7108,"$3,723",0,0
+113,2012,M,Armenia,France,7108,$28,0,0
+114,2012,M,Armenia,Germany,7108,"$31,089",0,0
+115,2012,M,Armenia,Italy,7108,$368,0,0
+116,2012,M,Armenia,South Africa,7108,"$43,519",1,1
+117,2012,M,Armenia,Switzerland,7108,"$59,125,140","1,103","1,103"
+118,2012,M,Armenia,Thailand,7108,"$310,334",7,7
+119,2012,M,Armenia,United Arab Emirates,7108,"$1,785,340",34,34
+120,2012,M,Armenia,United Kingdom,7108,"$30,281",0,0
+121,2012,M,Armenia,USA,7108,"$39,964",0,0
+122,2012,M,Barbados,World,7108,"$7,954",4,4
+123,2012,M,Barbados,USA,7108,"$7,954",4,4
+124,2012,M,Belgium,World,7108,"$1,740,924,930",0,"36,737"
+125,2012,M,Belgium,Austria,7108,"$3,342",0,0
+126,2012,M,Belgium,Brazil,7108,"$122,133,454","2,532","2,532"
+127,2012,M,Belgium,Bulgaria,7108,"$177,534",3,3
+128,2012,M,Belgium,Central African Rep.,7108,"$400,484",9,9
+129,2012,M,Belgium,Congo,7108,"$41,774",1,0
+130,2012,M,Belgium,Dem. Rep. of the Congo,7108,"$489,247",11,10
+131,2012,M,Belgium,Cyprus,7108,"$23,127,128",440,440
+132,2012,M,Belgium,Czechia,7108,"$39,248,047","1,301","1,301"
+133,2012,M,Belgium,Estonia,7108,"$8,079,249",151,151
+134,2012,M,Belgium,Finland,7108,"$50,168",0,0
+135,2012,M,Belgium,France,7108,"$157,526,779","1,580","3,186"
+136,2012,M,Belgium,Germany,7108,"$115,729,412","3,300","3,300"
+137,2012,M,Belgium,Ghana,7108,"$295,571",6,5
+138,2012,M,Belgium,Greece,7108,"$18,818,114",404,404
+139,2012,M,Belgium,Guinea,7108,"$24,038,906",503,503
+140,2012,M,Belgium,"China, Hong Kong SAR",7108,$137,0,0
+141,2012,M,Belgium,Hungary,7108,"$1,263,055",24,24
+142,2012,M,Belgium,Israel,7108,"$1,643,980",31,30
+143,2012,M,Belgium,Italy,7108,"$4,986,303",92,92
+144,2012,M,Belgium,Côte d'Ivoire,7108,"$27,299",1,0
+145,2012,M,Belgium,Japan,7108,"$15,685",0,0
+146,2012,M,Belgium,Kyrgyzstan,7108,"$2,996,300",60,60
+147,2012,M,Belgium,Latvia,7108,"$7,702,937",142,142
+148,2012,M,Belgium,Luxembourg,7108,"$15,039,839",285,285
+149,2012,M,Belgium,Mali,7108,"$239,482",5,5
+150,2012,M,Belgium,Malta,7108,"$23,876,684",444,444
+151,2012,M,Belgium,Netherlands,7108,"$188,888,378","3,545","3,545"
+152,2012,M,Belgium,Poland,7108,"$2,214,776",41,41
+153,2012,M,Belgium,Portugal,7108,"$541,521,565","10,366","10,366"
+154,2012,M,Belgium,Romania,7108,"$5,476,185",101,101
+155,2012,M,Belgium,Saudi Arabia,7108,"$2,506,451",50,50
+156,2012,M,Belgium,Senegal,7108,"$1,278,298",27,27
+157,2012,M,Belgium,Sierra Leone,7108,"$1,914,415",42,41
+158,2012,M,Belgium,Slovakia,7108,"$56,755,610","1,940","1,940"
+159,2012,M,Belgium,South Africa,7108,"$37,016,284",764,764
+160,2012,M,Belgium,Spain,7108,"$50,027,328","1,045","1,045"
+161,2012,M,Belgium,Suriname,7108,"$214,233,695","4,433","4,431"
+162,2012,M,Belgium,Sweden,7108,"$116,499",2,2
+163,2012,M,Belgium,Switzerland,7108,"$24,239,144",462,460
+164,2012,M,Belgium,Thailand,7108,"$20,852",0,0
+165,2012,M,Belgium,United Arab Emirates,7108,"$782,995",16,16
+166,2012,M,Belgium,Türkiye,7108,$6,0,0
+167,2012,M,Belgium,United Kingdom,7108,"$3,176,509",65,65
+168,2012,M,Belgium,United Rep. of Tanzania,7108,"$83,736",1,1
+169,2012,M,Belgium,USA,7108,"$598,001",16,13
+170,2012,M,Belgium,Burkina Faso,7108,"$42,123,270",883,882
+171,2012,M,Bermuda,World,7108,"$1,474",0,0
+172,2012,M,Bermuda,United Kingdom,7108,$49,0,0
+173,2012,M,Bermuda,USA,7108,"$1,425",0,0
+174,2012,M,Bhutan,World,7108,"$794,275",13,13
+175,2012,M,Bhutan,Singapore,7108,"$794,275",13,13
+176,2012,M,Bolivia (Plurinational State of),World,7108,"$41,857,296",0,0
+177,2012,M,Bolivia (Plurinational State of),Canada,7108,$615,0,1
+178,2012,M,Bolivia (Plurinational State of),China,7108,$212,0,0
+179,2012,M,Bolivia (Plurinational State of),Dominican Rep.,7108,$211,0,1
+180,2012,M,Bolivia (Plurinational State of),Peru,7108,"$5,090,866",150,150
+181,2012,M,Bolivia (Plurinational State of),Spain,7108,$21,0,0
+182,2012,M,Bolivia (Plurinational State of),USA,7108,"$36,765,370",789,782
+183,2012,M,Bosnia Herzegovina,World,7108,"$88,665",36,36
+184,2012,M,Bosnia Herzegovina,Austria,7108,"$52,001",1,1
+185,2012,M,Bosnia Herzegovina,Germany,7108,"$1,103",31,31
+186,2012,M,Bosnia Herzegovina,Slovenia,7108,"$35,561",4,4
+187,2012,M,Botswana,World,7108,"$676,999",0,0
+188,2012,M,Botswana,India,7108,"$676,994",18,18
+189,2012,M,Botswana,South Africa,7108,$4,0,0
+190,2012,M,Brazil,World,7108,"$3,946,542",565,565
+191,2012,M,Brazil,Austria,7108,"$4,353",0,0
+192,2012,M,Brazil,China,7108,$338,0,0
+193,2012,M,Brazil,Germany,7108,"$906,696",228,228
+194,2012,M,Brazil,Guyana,7108,"$25,200",1,1
+195,2012,M,Brazil,Italy,7108,"$40,438",21,21
+196,2012,M,Brazil,Rep. of Korea,7108,"$2,271,683",40,40
+197,2012,M,Brazil,"Other Asia, nes",7108,"$142,389",205,205
+198,2012,M,Brazil,Singapore,7108,"$410,654",29,29
+199,2012,M,Brazil,South Africa,7108,"$14,922",0,0
+200,2012,M,Brazil,United Kingdom,7108,"$13,078",1,1
+201,2012,M,Brazil,USA,7108,"$116,791",35,35
+202,2012,M,Belize,World,7108,"$1,579",464,464
+203,2012,M,Belize,USA,7108,"$1,579",464,464
+204,2012,M,Brunei Darussalam,World,7108,"$2,922,525",61,61
+205,2012,M,Brunei Darussalam,Germany,7108,"$248,099",6,6
+206,2012,M,Brunei Darussalam,Malaysia,7108,"$372,138",8,8
+207,2012,M,Brunei Darussalam,Singapore,7108,"$1,489,353",31,31
+208,2012,M,Brunei Darussalam,Switzerland,7108,"$802,120",17,17
+209,2012,M,Brunei Darussalam,USA,7108,"$10,815",0,0
+210,2012,M,Bulgaria,World,7108,"$8,061,158",342,342
+211,2012,M,Bulgaria,Austria,7108,"$1,887,192",38,38
+212,2012,M,Bulgaria,France,7108,$264,1,1
+213,2012,M,Bulgaria,Germany,7108,"$22,343",1,1
+214,2012,M,Bulgaria,Greece,7108,"$3,831,277",74,74
+215,2012,M,Bulgaria,Italy,7108,"$88,197",180,180
+216,2012,M,Bulgaria,"Other Asia, nes",7108,"$21,646",0,0
+217,2012,M,Bulgaria,Romania,7108,"$92,906",5,5
+218,2012,M,Bulgaria,Switzerland,7108,"$1,893,509",37,37
+219,2012,M,Bulgaria,Türkiye,7108,"$215,946",6,6
+220,2012,M,Bulgaria,USA,7108,"$7,877",0,0
+221,2012,M,Burundi,World,7108,$103,18,18
+222,2012,M,Burundi,United Arab Emirates,7108,$103,18,18
+223,2012,M,Cambodia,World,7108,"$92,065,122","1,785","1,785"
+224,2012,M,Cambodia,Singapore,7108,"$1,859,876",36,36
+225,2012,M,Cambodia,Switzerland,7108,"$90,205,246","1,749","1,749"
+226,2012,M,Cameroon,World,7108,$121,11,11
+227,2012,M,Cameroon,France,7108,$121,11,11
+228,2012,M,Canada,World,7108,"$9,809,048,028","342,544","342,544"
+229,2012,M,Canada,Argentina,7108,"$1,705,769,883","107,599","107,599"
+230,2012,M,Canada,Australia,7108,"$16,279,846",335,335
+231,2012,M,Canada,Austria,7108,"$53,730",1,1
+232,2012,M,Canada,Armenia,7108,"$73,927,216","2,581","2,581"
+233,2012,M,Canada,Belgium,7108,"$8,532",0,0
+234,2012,M,Canada,Brazil,7108,"$180,817,652","4,366","4,366"
+235,2012,M,Canada,Canada,7108,"$51,004,659","1,018","1,018"
+236,2012,M,Canada,Chile,7108,"$504,607,198","15,458","15,458"
+237,2012,M,Canada,China,7108,"$557,426",19,19
+238,2012,M,Canada,Colombia,7108,"$323,523",9,9
+239,2012,M,Canada,Benin,7108,"$39,044",1,1
+240,2012,M,Canada,Dominican Rep.,7108,"$119,437,056","8,787","8,787"
+241,2012,M,Canada,Ecuador,7108,"$29,597,853","1,251","1,251"
+242,2012,M,Canada,Eritrea,7108,"$353,293,797","7,024","7,024"
+243,2012,M,Canada,Finland,7108,"$45,087,833","1,138","1,138"
+244,2012,M,Canada,France,7108,"$12,664",1,1
+245,2012,M,Canada,Georgia,7108,"$86,234,526","3,785","3,785"
+246,2012,M,Canada,Germany,7108,"$1,115,598",51,51
+247,2012,M,Canada,Ghana,7108,"$526,954",32,32
+248,2012,M,Canada,Gibraltar,7108,$79,0,0
+249,2012,M,Canada,Guinea,7108,"$90,573",2,2
+250,2012,M,Canada,Guyana,7108,"$442,356,621","8,191","8,191"
+251,2012,M,Canada,"China, Hong Kong SAR",7108,"$46,130",1,1
+252,2012,M,Canada,Israel,7108,"$8,703",1,1
+253,2012,M,Canada,Italy,7108,"$659,766",33,33
+254,2012,M,Canada,Japan,7108,"$14,316",7,7
+255,2012,M,Canada,"China, Macao SAR",7108,"$6,036,735",116,116
+256,2012,M,Canada,Mexico,7108,"$554,581,072","14,320","14,320"
+257,2012,M,Canada,"Other Asia, nes",7108,$795,0,0
+258,2012,M,Canada,Mongolia,7108,"$165,947,597","3,590","3,590"
+259,2012,M,Canada,New Zealand,7108,"$3,463",0,0
+260,2012,M,Canada,Nicaragua,7108,"$281,532,142","13,765","13,765"
+261,2012,M,Canada,Panama,7108,"$111,273,893","5,303","5,303"
+262,2012,M,Canada,Paraguay,7108,"$684,989",95,95
+263,2012,M,Canada,Peru,7108,"$2,696,688,056","59,638","59,638"
+264,2012,M,Canada,Russian Federation,7108,"$315,941",26,26
+265,2012,M,Canada,Saint Lucia,7108,"$18,015",1,1
+266,2012,M,Canada,India,7108,"$37,887",2,2
+267,2012,M,Canada,Singapore,7108,"$17,361",4,4
+268,2012,M,Canada,South Africa,7108,"$128,624,388","2,515","2,515"
+269,2012,M,Canada,Sudan,7108,"$105,920,000","2,076","2,076"
+270,2012,M,Canada,Suriname,7108,"$37,610,812",656,656
+271,2012,M,Canada,Eswatini,7108,"$18,771",0,0
+272,2012,M,Canada,Switzerland,7108,"$167,084,407","3,254","3,254"
+273,2012,M,Canada,Thailand,7108,"$2,080",0,0
+274,2012,M,Canada,United Arab Emirates,7108,"$750,436",27,27
+275,2012,M,Canada,Türkiye,7108,"$240,433,357","5,761","5,761"
+276,2012,M,Canada,Egypt,7108,"$400,264,458","8,035","8,035"
+277,2012,M,Canada,United Kingdom,7108,"$559,027,960","18,724","18,724"
+278,2012,M,Canada,USA,7108,"$732,775,116","42,719","42,719"
+279,2012,M,Canada,Burkina Faso,7108,"$7,527,119",225,225
+280,2012,M,Cabo Verde,World,7108,$252,3,3
+281,2012,M,Cabo Verde,Portugal,7108,$252,3,3
+282,2012,M,Sri Lanka,World,7108,"$166,810,839","3,245","3,245"
+283,2012,M,Sri Lanka,Ghana,7108,"$21,352",0,0
+284,2012,M,Sri Lanka,"Other Asia, nes",7108,"$28,139",1,1
+285,2012,M,Sri Lanka,Singapore,7108,"$23,175,769",450,450
+286,2012,M,Sri Lanka,Switzerland,7108,"$106,814,712","2,080","2,080"
+287,2012,M,Sri Lanka,United Arab Emirates,7108,"$34,004,901",656,656
+288,2012,M,Sri Lanka,United Kingdom,7108,"$2,676,741",50,50
+289,2012,M,Sri Lanka,USA,7108,"$89,226",8,8
+290,2012,M,Chile,World,7108,"$31,568",2,2
+291,2012,M,Chile,China,7108,$296,0,0
+292,2012,M,Chile,Switzerland,7108,"$17,208",0,0
+293,2012,M,Chile,USA,7108,"$14,063",1,1
+294,2012,M,Colombia,World,7108,"$120,293",36,36
+295,2012,M,Colombia,Spain,7108,"$1,080",34,34
+296,2012,M,Colombia,USA,7108,"$119,212",2,2
+297,2012,M,Costa Rica,World,7108,"$9,652,695","55,452","55,452"
+298,2012,M,Costa Rica,Germany,7108,"$10,231",1,1
+299,2012,M,Costa Rica,Japan,7108,"$5,500,427","1,874","1,874"
+300,2012,M,Costa Rica,USA,7108,"$4,142,037","53,577","53,577"
+301,2012,M,Croatia,World,7108,"$565,922",11,11
+302,2012,M,Croatia,Austria,7108,"$473,840",8,8
+303,2012,M,Croatia,Germany,7108,"$87,747",2,2
+304,2012,M,Croatia,Italy,7108,"$1,623",0,0
+305,2012,M,Croatia,Slovenia,7108,$456,0,0
+306,2012,M,Croatia,United Kingdom,7108,"$2,256",0,0
+307,2012,M,Cyprus,World,7108,"$691,186",25,25
+308,2012,M,Cyprus,Germany,7108,"$16,520",2,2
+309,2012,M,Cyprus,Greece,7108,"$178,984",6,6
+310,2012,M,Cyprus,Guinea,7108,"$373,945",8,8
+311,2012,M,Cyprus,Italy,7108,"$16,308",2,2
+312,2012,M,Cyprus,Switzerland,7108,$598,1,1
+313,2012,M,Cyprus,United Kingdom,7108,"$92,584",4,4
+314,2012,M,Cyprus,USA,7108,"$12,248",2,2
+315,2012,M,Czechia,World,7108,"$228,863,347","5,657","5,657"
+316,2012,M,Czechia,Azerbaijan,7108,"$5,290",0,0
+317,2012,M,Czechia,Australia,7108,"$74,603",4,4
+318,2012,M,Czechia,Austria,7108,"$45,850,575",871,871
+319,2012,M,Czechia,Belgium,7108,"$34,435",16,16
+320,2012,M,Czechia,Canada,7108,"$12,481",2,2
+321,2012,M,Czechia,China,7108,"$188,000",7,7
+322,2012,M,Czechia,France,7108,"$303,074",7,7
+323,2012,M,Czechia,Germany,7108,"$13,472,751",471,471
+324,2012,M,Czechia,Ghana,7108,"$8,610",1,1
+325,2012,M,Czechia,"China, Hong Kong SAR",7108,"$1,673",1,1
+326,2012,M,Czechia,Hungary,7108,"$14,581,578",261,261
+327,2012,M,Czechia,Israel,7108,"$73,121",998,998
+328,2012,M,Czechia,Italy,7108,"$1,132,861",21,21
+329,2012,M,Czechia,Latvia,7108,"$9,430,427",167,167
+330,2012,M,Czechia,Lithuania,7108,"$7,677,985",140,140
+331,2012,M,Czechia,Poland,7108,"$100,895",11,11
+332,2012,M,Czechia,Singapore,7108,"$204,688",6,6
+333,2012,M,Czechia,Slovakia,7108,"$30,315,653",666,666
+334,2012,M,Czechia,Slovenia,7108,"$75,056",1,1
+335,2012,M,Czechia,Spain,7108,"$15,968",1,1
+336,2012,M,Czechia,Switzerland,7108,"$101,273,404","1,902","1,902"
+337,2012,M,Czechia,Türkiye,7108,"$2,415,484",44,44
+338,2012,M,Czechia,United Kingdom,7108,"$78,846",3,3
+339,2012,M,Czechia,United Rep. of Tanzania,7108,"$29,770",1,1
+340,2012,M,Czechia,USA,7108,"$923,633",41,41
+341,2012,M,Czechia,Burkina Faso,7108,"$582,486",13,13
+342,2012,M,Denmark,World,7108,"$16,362,318","2,037","2,037"
+343,2012,M,Denmark,Australia,7108,"$1,311",3,3
+344,2012,M,Denmark,Czechia,7108,"$1,887",6,6
+345,2012,M,Denmark,Estonia,7108,"$1,220",12,12
+346,2012,M,Denmark,Finland,7108,"$1,256",9,9
+347,2012,M,Denmark,France,7108,"$14,821",27,27
+348,2012,M,Denmark,Germany,7108,"$3,076,152","1,352","1,352"
+349,2012,M,Denmark,Greece,7108,"$1,937",19,19
+350,2012,M,Denmark,Greenland,7108,"$50,008",3,3
+351,2012,M,Denmark,"China, Hong Kong SAR",7108,"$8,363",3,3
+352,2012,M,Denmark,Iceland,7108,"$4,241",1,1
+353,2012,M,Denmark,Ireland,7108,"$3,866",3,3
+354,2012,M,Denmark,Italy,7108,"$67,353",53,53
+355,2012,M,Denmark,Japan,7108,"$2,447",1,1
+356,2012,M,Denmark,Latvia,7108,"$2,063",13,13
+357,2012,M,Denmark,Luxembourg,7108,"$20,217",13,13
+358,2012,M,Denmark,Netherlands,7108,"$65,360",28,28
+359,2012,M,Denmark,Norway,7108,"$7,526,750",186,186
+360,2012,M,Denmark,Poland,7108,"$7,925",15,15
+361,2012,M,Denmark,Portugal,7108,$103,2,2
+362,2012,M,Denmark,Romania,7108,$388,12,12
+363,2012,M,Denmark,Slovenia,7108,$155,4,4
+364,2012,M,Denmark,Spain,7108,$966,3,3
+365,2012,M,Denmark,Sweden,7108,"$2,546,093",69,69
+366,2012,M,Denmark,Switzerland,7108,"$106,967",16,16
+367,2012,M,Denmark,United Arab Emirates,7108,"$55,954",2,2
+368,2012,M,Denmark,United Kingdom,7108,"$1,224,317",61,61
+369,2012,M,Denmark,USA,7108,"$1,570,197",121,121
+370,2012,M,Dominican Rep.,World,7108,"$66,277,338","1,358","1,358"
+371,2012,M,Dominican Rep.,Italy,7108,"$24,952,725",514,514
+372,2012,M,Dominican Rep.,USA,7108,"$41,324,463",844,844
+373,2012,M,Dominican Rep.,"Areas, nes",7108,$150,0,0
+374,2012,M,Ethiopia,World,7108,$13,0,0
+375,2012,M,Ethiopia,United Arab Emirates,7108,$13,0,0
+376,2012,M,Estonia,World,7108,"$73,618,730","1,483","1,483"
+377,2012,M,Estonia,Belgium,7108,"$99,153",2,2
+378,2012,M,Estonia,Bulgaria,7108,"$2,131,811",39,39
+379,2012,M,Estonia,Denmark,7108,"$311,151",6,6
+380,2012,M,Estonia,Finland,7108,"$2,264,343",42,42
+381,2012,M,Estonia,Georgia,7108,"$725,067",23,23
+382,2012,M,Estonia,Germany,7108,"$155,870",25,25
+383,2012,M,Estonia,Ghana,7108,"$52,115",1,1
+384,2012,M,Estonia,Latvia,7108,"$8,099,341",230,230
+385,2012,M,Estonia,Lithuania,7108,"$469,661",9,9
+386,2012,M,Estonia,"Other Europe, nes",7108,$273,0,0
+387,2012,M,Estonia,Norway,7108,"$12,002,517",223,223
+388,2012,M,Estonia,Poland,7108,"$236,845",7,7
+389,2012,M,Estonia,Sweden,7108,"$144,498",3,3
+390,2012,M,Estonia,Switzerland,7108,"$46,869,812",871,871
+391,2012,M,Estonia,Türkiye,7108,"$54,721",1,1
+392,2012,M,Estonia,USA,7108,"$1,552",0,0
+393,2012,M,Fiji,World,7108,"$5,965","2,600","2,600"
+394,2012,M,Fiji,Australia,7108,"$5,965","2,600","2,600"
+395,2012,M,Finland,World,7108,"$54,364,651","1,359,553",0
+396,2012,M,Finland,Austria,7108,"$4,198,219","80,570",0
+397,2012,M,Finland,Belgium,7108,"$11,819,975","226,500",0
+398,2012,M,Finland,Canada,7108,"$16,773",311,0
+399,2012,M,Finland,France,7108,$346,105,0
+400,2012,M,Finland,Germany,7108,"$1,363,768","150,468",0
+401,2012,M,Finland,Ghana,7108,"$1,232",250,0
+402,2012,M,Finland,Italy,7108,"$84,904","5,098",0
+403,2012,M,Finland,Netherlands,7108,"$51,860","3,199",0
+404,2012,M,Finland,Norway,7108,"$14,541,250","363,946",0
+405,2012,M,Finland,Saudi Arabia,7108,"$11,444","2,114",0
+406,2012,M,Finland,Sweden,7108,"$1,522,932","91,396",0
+407,2012,M,Finland,Switzerland,7108,"$20,588,475","428,688",0
+408,2012,M,Finland,United Kingdom,7108,"$116,232","3,870",0
+409,2012,M,Finland,USA,7108,"$47,242","3,038",0
+410,2012,M,France,World,7108,"$712,213,263","37,348","37,348"
+411,2012,M,France,Australia,7108,$684,0,0
+412,2012,M,France,Austria,7108,"$84,865",155,155
+413,2012,M,France,Belgium,7108,"$5,149,343",996,996
+414,2012,M,France,Canada,7108,"$2,679",12,12
+415,2012,M,France,China,7108,"$594,520",180,180
+416,2012,M,France,Congo,7108,"$126,936",3,3
+417,2012,M,France,Czechia,7108,"$3,210,651",125,125
+418,2012,M,France,Equatorial Guinea,7108,"$12,023,473",222,222
+419,2012,M,France,France,7108,"$397,575","3,028","3,028"
+420,2012,M,France,French Polynesia,7108,"$76,627",1,1
+421,2012,M,France,Germany,7108,"$109,253,958","7,620","7,620"
+422,2012,M,France,Guinea,7108,"$24,440,790",492,492
+423,2012,M,France,Ireland,7108,"$1,847",2,2
+424,2012,M,France,Israel,7108,"$103,260",3,3
+425,2012,M,France,Italy,7108,"$334,330,426","7,048","7,048"
+426,2012,M,France,Japan,7108,"$282,564","3,375","3,375"
+427,2012,M,France,Rep. of Korea,7108,$243,1,1
+428,2012,M,France,Mauritius,7108,"$2,744,273",230,230
+429,2012,M,France,"Other Asia, nes",7108,$233,0,0
+430,2012,M,France,Morocco,7108,"$128,752",2,2
+431,2012,M,France,Netherlands,7108,"$193,535","4,563","4,563"
+432,2012,M,France,New Caledonia,7108,"$53,375",2,2
+433,2012,M,France,Peru,7108,"$227,912",5,5
+434,2012,M,France,Poland,7108,"$2,499,520",73,73
+435,2012,M,France,Portugal,7108,"$297,374",3,3
+436,2012,M,France,Romania,7108,"$4,736,850",140,140
+437,2012,M,France,India,7108,"$32,453",1,1
+438,2012,M,France,Singapore,7108,"$1,578,303","2,501","2,501"
+439,2012,M,France,Spain,7108,"$3,309,219",156,156
+440,2012,M,France,Suriname,7108,"$141,854",2,2
+441,2012,M,France,Switzerland,7108,"$147,119,726","4,030","4,030"
+442,2012,M,France,Thailand,7108,"$1,853",0,0
+443,2012,M,France,Türkiye,7108,"$27,791",1,1
+444,2012,M,France,United Kingdom,7108,"$33,320,318","1,311","1,311"
+445,2012,M,France,USA,7108,"$18,084,916",871,871
+446,2012,M,France,Burkina Faso,7108,"$252,439",15,15
+447,2012,M,France,"Areas, nes",7108,"$7,382,126",178,178
+448,2012,M,French Polynesia,World,7108,"$61,587",42,42
+449,2012,M,French Polynesia,France,7108,"$59,409",40,40
+450,2012,M,French Polynesia,Italy,7108,$490,0,0
+451,2012,M,French Polynesia,"Other Asia, nes",7108,$552,1,1
+452,2012,M,French Polynesia,New Zealand,7108,$837,0,0
+453,2012,M,French Polynesia,USA,7108,$298,1,1
+454,2012,M,Georgia,World,7108,"$2,271,795",43,43
+455,2012,M,Georgia,France,7108,$664,1,1
+456,2012,M,Georgia,Germany,7108,"$15,203",2,2
+457,2012,M,Georgia,Switzerland,7108,"$2,255,928",40,40
+458,2012,M,State of Palestine,World,7108,"$17,099",0,0
+459,2012,M,State of Palestine,Israel,7108,"$17,099",0,0
+460,2012,M,Germany,World,7108,"$6,375,163,350","132,659","132,659"
+461,2012,M,Germany,Australia,7108,"$77,724,396","1,571","1,571"
+462,2012,M,Germany,Austria,7108,"$377,158,788","6,878","6,878"
+463,2012,M,Germany,Brazil,7108,"$16,653",0,0
+464,2012,M,Germany,Bulgaria,7108,"$1,391,870",24,24
+465,2012,M,Germany,Cambodia,7108,"$403,211",7,7
+466,2012,M,Germany,Canada,7108,"$1,290,214",24,24
+467,2012,M,Germany,China,7108,"$5,958,150",160,160
+468,2012,M,Germany,Colombia,7108,"$258,614",5,5
+469,2012,M,Germany,Croatia,7108,"$8,247,037",162,162
+470,2012,M,Germany,Cyprus,7108,"$1,453,847",26,26
+471,2012,M,Germany,Czechia,7108,"$38,423,728",747,747
+472,2012,M,Germany,Benin,7108,"$4,067",0,0
+473,2012,M,Germany,Denmark,7108,"$26,967,367",539,539
+474,2012,M,Germany,Ecuador,7108,"$35,731",1,1
+475,2012,M,Germany,Estonia,7108,"$2,204,516",40,40
+476,2012,M,Germany,Finland,7108,"$30,794,478",613,613
+477,2012,M,Germany,France,7108,"$32,765,825",935,935
+478,2012,M,Germany,Ghana,7108,"$359,721",7,7
+479,2012,M,Germany,Greece,7108,"$2,636,968",49,49
+480,2012,M,Germany,Guinea,7108,"$733,309",14,14
+481,2012,M,Germany,Hungary,7108,"$2,458,995",44,44
+482,2012,M,Germany,Indonesia,7108,"$269,856",5,5
+483,2012,M,Germany,Ireland,7108,"$19,403,594",686,686
+484,2012,M,Germany,Israel,7108,"$774,250",18,18
+485,2012,M,Germany,Italy,7108,"$45,235,697",832,832
+486,2012,M,Germany,Japan,7108,"$173,615",8,8
+487,2012,M,Germany,Kenya,7108,"$175,786",4,4
+488,2012,M,Germany,Rep. of Korea,7108,"$11,316,941",210,210
+489,2012,M,Germany,Kyrgyzstan,7108,"$4,885",0,0
+490,2012,M,Germany,Latvia,7108,"$4,841,153",93,93
+491,2012,M,Germany,Lithuania,7108,"$91,478",3,3
+492,2012,M,Germany,Luxembourg,7108,"$11,171,450",210,210
+493,2012,M,Germany,Malaysia,7108,"$2,712",0,0
+494,2012,M,Germany,Mexico,7108,"$1,224,815",24,24
+495,2012,M,Germany,"Other Asia, nes",7108,$61,0,0
+496,2012,M,Germany,New Zealand,7108,"$1,942",0,0
+497,2012,M,Germany,Norway,7108,"$30,312,193","2,002","2,002"
+498,2012,M,Germany,Poland,7108,"$81,770,627","2,265","2,265"
+499,2012,M,Germany,Portugal,7108,"$9,177,840",225,225
